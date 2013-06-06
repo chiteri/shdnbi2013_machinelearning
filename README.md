@@ -1,11 +1,14 @@
 shdnbi2013_machinelearning
 ==========================
 
-A project based on ideas of Machine Learning _(M.L)_. We need to train computers to accurately recognize sentences in either Swahili or English then use the similar rules and techniques to detect the presence of particular sub-atomic particles inside Physics data
+A project based on ideas of Machine Learning _(M.L)_. We need to train computers to accurately recognize sentences in either Swahili or English out of reading entries from Wikipedia from both languages, then use similar rules and techniques to detect the presence of particular sub-atomic particles inside Physics data collected from the Compact Muon Solenoid (C.M.S) collaboration at CERN.
 
 Jess and Matt's Instructions 
-============================= 
-Hi Morris and Martin,
+=======================================================
+
+scikit-learn example and our experiements at Siena. 
+======================================================= 
+``Hi Morris and Martin,
 
    It's great to see you've already started looking at the scikit-learn tools! That will probably really help things this weekend. 
 
@@ -48,7 +51,19 @@ http://scikit-learn.org/stable/modules/tree.html
 
    As always, it's *you guys* that are running the event. I'm only here to help and provide data and ideas. So feel free to come up with your own approach....this is only one suggestion. 
 
-   Tomorrow, Jess and I will prepare some CMS data for you to play with. But even just trying out the language stuff will be challenging. I *think* if you write your code generally to read in data like the above sample, it will be interchangeable between the language and CMS example. At least I think so.  :)    We'll see how it all works out! 
+   Tomorrow, Jess and I will prepare some CMS data for you to play with. But even just trying out the language stuff will be challenging. I *think* if you write your code generally to read in data like the above sample, it will be interchangeable between the language and CMS example. At least I think so.  :)    We'll see how it all works out!
+
+-- 
+-- 
+----------------------------
+Matt Bellis
+Siena College
+mbellis@siena.edu
+http://www.mattbellis.com
+(cell)    412-310-4586
+----------------------------
+
+" 
 
 
 More links: 
@@ -57,4 +72,7 @@ ____________
 
 * Decision trees using SciKit Learn: http://scikit-learn.org/stable/modules/tree.html 
 
-* C.M.S (Compact muon solenoid's event viewer): https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookFireworks 
+* C.M.S (Compact muon solenoid's) experiment's event viewer: https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookFireworks 
+
+* Genism, for collecting a bag of words from Wikipedia dumps: http://radimrehurek.com/gensim/index.html
+
