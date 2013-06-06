@@ -58,7 +58,6 @@ Matt Bellis
 Siena College
 mbellis@siena.edu
 http://www.mattbellis.com
-(cell)    412-310-4586
 ----------------------------
 
 " 
