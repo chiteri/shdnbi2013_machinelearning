@@ -51,6 +51,18 @@ http://scikit-learn.org/stable/modules/tree.html
 
    Tomorrow, Jess and I will prepare some CMS data for you to play with. But even just trying out the language stuff will be challenging. I *think* if you write your code generally to read in data like the above sample, it will be interchangeable between the language and CMS example. At least I think so.  :)    We'll see how it all works out!
 
+======================================== 
+Once you understand the code, I would recommend this:
+
+* Grab a few hundred sentences in Swahili and English and put them into separate text files. 
+* Write some code to count up the number of times a particular letter appears in each sentence. Maybe start with ``a" and ``e".
+* Write to a file the fractional amount that letter appears. For instance, if there are 5 ``e"s in a 100 letter sentence, you would write out 0.05. Write these out as columns. 
+* Modify this example to read in those files and put them into the ``X" array. 
+
+   Of course, this can all be done at the Hack Day, but you can help others if you already have some starter code. 
+
+   Also, think about if there's anyway to post these exercises (and the work that the other hackers do) online for others to learn from. Maybe some nice webpage of the work or even making one of Github's pages? I've never done that but maybe one of the other hackers has experience? Just a thought. 
+
 -- 
 -- 
 ----------------------------
