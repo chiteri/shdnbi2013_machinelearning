@@ -51,7 +51,8 @@ http://scikit-learn.org/stable/modules/tree.html
 
    Tomorrow, Jess and I will prepare some CMS data for you to play with. But even just trying out the language stuff will be challenging. I *think* if you write your code generally to read in data like the above sample, it will be interchangeable between the language and CMS example. At least I think so.  :)    We'll see how it all works out!
 
-======================================== 
+* For the hackday itself (or just before?)
+========================================= 
 Once you understand the code, I would recommend this:
 
 * Grab a few hundred sentences in Swahili and English and put them into separate text files. 
@@ -62,6 +63,10 @@ Once you understand the code, I would recommend this:
    Of course, this can all be done at the Hack Day, but you can help others if you already have some starter code. 
 
    Also, think about if there's anyway to post these exercises (and the work that the other hackers do) online for others to learn from. Maybe some nice webpage of the work or even making one of Github's pages? I've never done that but maybe one of the other hackers has experience? Just a thought. 
+
+* Notes on the screen-shot attached (Check inside the folder named ``resources") 
+=================================================================================
+ Also, your screen shots look exactly like what we get. Those ``datasets" are completely arbitrary. You can imagine that they might represent frequency of letters, or energy of particles, or heights of people, but the point is that with the naked eye we can see that there are two distinct populations of whatever they are. It's a 3D dataset (every entry in a dataset is defined by three numbers) so I plotted each 2D relationship: x vs y, x vs z, y vs z. Just to try to give some sense of how different they are.  
 
 -- 
 -- 
