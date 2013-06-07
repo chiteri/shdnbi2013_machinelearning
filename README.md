@@ -1,7 +1,7 @@
 SCIENCE HACK DAY, Nairobi - 2013: MACHINE LEARNING FOR PHYSICS
 ===============================================================
 
-A project based on ideas of Machine Learning _(M.L)_ : We need to train computers to accurately recognize sentences in either Swahili or English out of reading entries from Wikipedia from both languages. We will then use similar rules and techniques to detect the presence of particular sub-atomic particles inside Physics data collected from the Compact Muon Solenoid (C.M.S) experiment at CERN.
+A project based on ideas of Machine Learning _(M.L)_ : We need to train computers to accurately recognize sentences in either Swahili or English out of reading entries from Wikipedia from both languages. We will then use similar rules and techniques to detect the presence of particular sub-atomic particles inside Physics data collected by collaborators at the Compact Muon Solenoid (C.M.S) experiment at CERN.
 
 
 scikit-learn example and our experiements at Siena. 
@@ -89,4 +89,6 @@ ____________
 * C.M.S (Compact muon solenoid's) experiment's event viewer: https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookFireworks 
 
 * Genism, for collecting a bag of words from Wikipedia dumps: http://radimrehurek.com/gensim/index.html
+
+* Science hack day, Nairobi - 2013: Ideas Wiki => http://shdnairobi.pbworks.com/w/page/66494507/SHD%20Nairobi%202013%2C%20Hack%20ideas 
 
