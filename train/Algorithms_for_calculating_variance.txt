@@ -1,0 +1,89 @@
+Algorithms for calculating variance.
+Algorithms for calculating variance'" play a major role in statistical computing. A key problem in the design of good algorithms for this problem is that formulas for the variance may involve sums of squares, which can lead to numerical instability as well as to arithmetic overflow when dealing with large values.
+Naïve algorithm.
+A formula for calculating the variance of an entire population of size "N" is:
+A formula for calculating an unbiased estimate of the population variance from a finite sample of "n" observations is:
+Therefore a naive algorithm to calculate the estimated variance is given by the following:
+variance = (Sum_sqr - ((Sum*Sum)/n))/(n - 1)
+This algorithm can easily be adapted to compute the variance of a finite population: simply divide by "N" instead of "n" − 1 on the last line.
+Because [Codice 1] and [Codice 2] can be very similar numbers, cancellation can lead to the precision of the result to be much less than the inherent precision of the floating-point arithmetic used to perform the computation. Thus this algorithm should not be used in practice. This is particularly bad if the standard deviation is small relative to the mean. However, the algorithm can be improved by adopting the method of the assumed mean.
+Two-pass algorithm.
+An alternate approach, using a different formula for the variance, first computes the sample mean,
+and then computes the sum of the squares of the differences from the mean,
+where s is the standard deviation. This is given by the following pseudocode:
+sum2 = sum2 + (x - mean)*(x - mean)
+This algorithm is always numerically stable, unless n is large. Although it can be worse if much of the data is very close to but not precisely equal to the mean and some are quite far away from it.
+The results of both of these simple algorithms (I and II) can depend inordinately on the ordering of the data and can give poor results for very large data sets due to repeated roundoff error in the accumulation of the sums. Techniques such as compensated summation can be used to combat this error to a degree.
+Compensated variant.
+The compensated-summation version of the algorithm above reads:
+sum2 = sum2 + (x - mean)**2
+sum3 = sum3 + (x - mean)
+variance = (sum2 - sum3**2/n)/(n - 1)
+Online algorithm.
+It is often useful to be able to compute the variance in a single pass, inspecting each value [Formula 5] only once; for example, when the data are being collected without enough storage to keep all the values, or when costs of memory access dominate those of computation. For such an online algorithm, a recurrence relation is required between quantities from which the required statistics can be calculated in a numerically stable fashion.
+The following formulas can be used to update the mean and (estimated) variance of the sequence, for an additional element [Formula 6]. Here, "n" denotes the sample mean of the first "n" samples ("x"1..., "xn"), "s"2"n" their sample variance, and "σ"2"N" their population variance.
+It turns out that a more suitable quantity for updating is the sum of squares of differences from the (current) mean, [Formula 10], here denoted [Formula 11]:
+A numerically stable algorithm is given below. It also computes the mean.
+This algorithm is due to Knuth, who cites Welford, and it has been thoroughly analyzed. It is also common to denote [Formula 15] and [Formula 16].
+M2 = M2 + delta*(x - mean)
+This algorithm is much less prone to loss of precision due to massive cancellation, but might not be as efficient because of the division operation inside the loop. For a particularly robust two-pass algorithm for computing the variance, first compute and subtract an estimate of the mean, and then use this algorithm on the residuals.
+The parallel algorithm below illustrates how to merge multiple sets of statistics calculated online.
+Weighted incremental algorithm.
+The algorithm can be extended to handle unequal sample weights, replacing the simple counter "n" with the sum of weights seen so far. West (1979) suggests this incremental algorithm:
+for x, weight in dataWeightPairs: # Alternatively "for x, weight in zip(data, weights):"
+R = delta * weight / temp
+M2 = M2 + sumweight * delta * R # Alternatively, "M2 = M2 + weight * delta * (x−mean)"
+variance = variance_n * len(dataWeightPairs)/(len(dataWeightPairs) − 1)
+Parallel algorithm.
+Chan et al. note that the above online algorithm III is a special case of an algorithm that works for any partition of the sample [Formula 17] into sets [Formula 18], [Formula 19]:
+This may be useful when, for example, multiple processing units may be assigned to discrete parts of the input.
+Chan's method for estimating the mean is numerically unstable when [Formula 23] and both are large, because the numerical error in [Formula 24] is not scaled down in the way that it is in the [Formula 25] case. In such cases, prefer [Formula 26].
+Example.
+Assume that all floating point operations use the standard IEEE 754 double-precision arithmetic. Consider the sample (4, 7, 13, 16) from an infinite population. Based on this sample, the estimated population mean is 10, and the unbiased estimate of population variance is 30. Both Algorithm I and Algorithm II compute these values correctly. Next consider the sample (108 + 4, 108 + 7, 108 + 13, 108 + 16), which gives rise to the same estimated variance as the first sample. Algorithm II computes this variance estimate correctly, but Algorithm I returns 29.333333333333332 instead of 30. While this loss of precision may be tolerable and viewed as a minor flaw of Algorithm I, it is easy to find data that reveal a major flaw in the naive algorithm: Take the sample to be (109 + 4, 109 + 7, 109 + 13, 109 + 16). Again the estimated population variance of 30 is computed correctly by Algorithm II, but the naive algorithm now computes it as −170.66666666666666. This is a serious problem with Algorithm I and is due to catastrophic cancellation in the subtraction of two similar numbers at the final stage of the algorithm.
+Higher-order statistics.
+Terriberry extends Chan's formulae to calculating the third and fourth central moments, needed for example when estimating skewness and kurtosis:
+Here the [Formula 29] are again the sums of powers of differences from the mean [Formula 30], giving
+For the incremental case (i.e., [Formula 33]), this simplifies to:
+By preserving the value [Formula 39], only one division operation is needed and the higher-order statistics can thus be calculated for little incremental cost.
+An example of the online algorithm for kurtosis implemented as described is:
+term1 = delta * delta_n * n1
+M4 = M4 + term1 * delta_n2 * (n*n - 3*n + 3) + 6 * delta_n2 * M2 - 4 * delta_n * M3
+M3 = M3 + term1 * delta_n * (n - 2) - 3 * delta_n * M2
+kurtosis = (n*M4) / (M2*M2) - 3
+further extends these results to arbitrary-order central moments, for the incremental and the pairwise cases. One can also find there similar formulas for covariance.
+offer two alternate methods to compute the skewness and kurtosis, each of which can save substantial computer memory requirements and CPU time in certain applications. The first approach is to compute the statistical moments by separating the data into bins and then computing the moments from the geometry of the resulting histogram, which effectively becomes a one-pass algorithm for higher moments. One benefit is that the statistical moment calculations can be carried out to arbitrary accuracy such that the computations can be tuned to the precision of, e.g., the data storage format or the original measurement hardware. A relative histogram of a random variable can be constructed in
+the conventional way: the range of potential values is
+divided into bins and the number of occurrences within each bin are
+counted and plotted such that the area of each rectangle equals
+the portion of the sample values within that bin:
+where [Formula 41] and [Formula 42] represent the frequency and
+the relative frequency at bin [Formula 43] and [Formula 44] is the total area of the histogram. After this
+normalization, the [Formula 45] raw moments and central moments of [Formula 46]
+can be calculated from the relative histogram:
+where the superscript [Formula 49] indicates the moments are
+calculated from the histogram. For constant bin width [Formula 50] these two expressions can be simplified using [Formula 51]:
+The second approach from Choi and Sweetman
+is an analytical methodology to combine statistical moments from individual segments of a time-history such that the resulting overall moments are those of the complete time-history. This methodology could be used for parallel computation of statistical moments with subsequent combination of those moments, or for combination of statistical moments computed at sequential times.
+If [Formula 54] sets of statistical moments are known:
+[Formula 55] for [Formula 56], then each [Formula 57] can
+be expressed in terms of the equivalent [Formula 45] raw moments:
+where [Formula 60] is generally taken to be the duration of the [Formula 61] time-history, or the number of points if [Formula 62] is constant.
+The benefit of expressing the statistical moments in
+terms of [Formula 63] is that the [Formula 54] sets can be combined by
+addition, and there is no upper limit on the value of [Formula 54].
+where the subscript [Formula 67] represents the concatenated
+time-history or combined [Formula 63]. These combined values of
+[Formula 63] can then be inversely transformed into raw moments
+Known relationships between the raw moments ([Formula 71]) and the central moments ([Formula 72])
+are then used to compute the central moments of the concatenated time-history. Finally, the statistical moments of the concatenated history are computed from the central moments:
+Covariance.
+Very similar algorithms can be used to compute the covariance. The naive algorithm is:
+For the algorithm above, one could use the following pseudocode:
+covariance = (sum12 - sum1*sum2 / n) / n
+A more numerically stable two-pass algorithm first computes the sample means, and then the covariance:
+The two-pass algorithm may be written as:
+A slightly more accurate compensated version performs the full naive algorithm on the residuals. The final sums [Formula 78] and [Formula 79] "should" be zero, but the second pass compensates for any small error.
+A stable one-pass algorithm exists, similar to the one above, that computes co-moment [Formula 80]:
+The apparent asymmetry in that last equation is due to the fact that [Formula 84], so both update terms are equal to [Formula 85]. Even greater accuracy can be achieved by first computing the means, then using the stable one-pass algorithm on the residuals.
+Thus we can compute the covariance as
+Likewise, there is a formula for combining the covariances of two sets that can be used to parallelize the computation:

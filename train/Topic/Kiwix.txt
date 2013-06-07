@@ -1,0 +1,7 @@
+Kiwix.
+Kiwix kwenye laptop aina ya OLPC
+Kiwix ni programu huria inayomwezesha mtumiaji kuangalia Wikipedia kwenye kompyuta yake bila kuingia katika intaneti.
+Watumiaji wanaweza kupakua programu ya Kiwix yenyewe halafu faili za wikipedia kwa lugha mbalimbali pamoja na Kiingereza na Kiswahili. Kwa wikipedia kubwa kama Kiingereza kuna matoleo mbalimbali ama chaguo la makala tu au makala yote lakini kwa chaguo cha picha kwa sababu faili za picha zinachagua nafasi kubwa sana.
+Mtumiaji wa Kiwix anaweza pia kusoma data nyingine zinazotumia mfumo wa wikiwiki. Lakini haiwezekani kubadilisha makala jinsi ilivyowezekana kwa wikipedia mtandaoni.
+Programu ya Kiwix imekusudiwa kwa watumiaji wanaokosa muunganisho lwa mtandao hasa kwa ajili ya shule penye kompyuta lakini zisizo na uunganisho unawezesha kufikia wikipedia kwa sababu ya ukosefu wa muunganisho mzuri au gharama yake.
+Kiwix inaruhusu kutafuta maneno yote yaliyomo katika data. Inawezekana kuhamisha yaliyomo ya makala za wikipedia nje kwa umbo la PDF na HTML.

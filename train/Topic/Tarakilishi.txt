@@ -1,0 +1,127 @@
+Tarakilishi.
+Tarakilishi'" (pia: "'tarakishi'", "'kompyuta'") ni mashine inayotumia data kwa njia tofauti kutokana na maagizo zilizoandikwa kwenye bidhaa pepe (kwa Kiingereza "software").
+Maneno Kompyuta na Ngamizi yanaweza kutumika badala "Tarakishi".
+Teknolojia hii ni mabadiliko ya kisayansi yaliyowekwa kwenye nadharia ya utendaji kazi. Mabadiliko hayo yanapochochewa kwa kiasi kikubwa huwezesha mambo mbalimbali kuvumbuliwa na kuweza kuboresha shughuli mbalimbali za kijamii, kiuchumi na hata mawasiliano.
+Kompyuta ni moja kati ya nyenzo zilizotokana na mabadiliko ya teknolojia ya hali ya juu
+HATUA KABLA YA MWANZO WA KOMPYUTA (1642).
+Msomi mmoja kutoka Ufaransa aliyekuwa anaitwa Pascal, alianzisha chombo cha kufanyia hesabu, ambacho alikitengeneza kwa ajili ya kumsaidia baba yake katika kazi za hesabu, lakini hakikuwa na sifa bora kama ilivyotakiwa.
+Kisha baada ya hapo kiliendelezwa na msomi mwengine kutoka Ujerumani, ambaye alijulikana kwa jina la Lebnitz na kuzidishwa ubora zaidi, kikawa kinafanya kazi zote za hesabu, kama vile kujumlisha, kutoa, kugawanya na kuzidisha, badala ya kufanya kazi za kuzidisha na kugawanya tu.
+Kisha msomi mwengine kutoka Uingereza alikuja kuanzisha chombo chengine cha hesabu, ambacho kilikuwa na uwezo mkubwa wa kuhifadhi vitu. Chombo hicho kilikuwa na sehemu kuu tatu, ambazo sehemu ya kwanza ilikuwa ni kwa ajili ya kuhifadhia kumbukumbu, sehemu ya pili ilikuwa ni kwa ajili ya kufanyia hesabu, na sehemu ya tatu na ya mwisho ilikuwa ni kwa ajili ya kuchapishia.
+HATUA YA MWANZO (1944).
+Kipindi cha mwaka 1944 kinajulikana kuwa ni mwanzo wa kudhihiri kompyuta.
+Kompyuta katika kipindi hicho ilikuwa ina sura tofauti na hivi sasa, kwani ilikuwa ni kubwa mfano wa chumba, na ilikuwa inatumika kwa ajili ya kufanyia hesabu tu, na ilikuwa inajulikana kwa jina la (ENIAC) Electronic Numerical and Calculation.
+Na mwisho wa mwaka 1951 ilianzishwa kompyuta nyingine ambayo ilikuwa inaitwa Unifac, na ilitengenezwa kwa ajili ya kufanyia biashara, na ilikuwa ni chombo pekee ambacho kilikuwa na uwezo mkubwa wa kuhifadhi vitu.
+HATUA YA PILI (1958).
+Kipindi cha mwaka 1958 kilifanikiwa kuendeleza chombo cha kompyuta, ambapo kilianzishwa chombo kinachoitwa Transistor, ambacho kiliwezesha kutengeneza kompyuta yenye umbo dogo baada ya kuwa na umbo kubwa mfano wa chumba.
+Vile vile chombo cha Transistor kiliwasaidia watumiaji wa kompyuta kipindi hicho kuepukana na joto kali lililokuwa linatoka kwenye kompyuta hiyo na kufanya kazi kwa ufanisi zaidi.
+Na mwanzo wa miaka ya sitini shirika la IBM lilianzisha chombo chengine cha kompyuta ambacho kilikuwa na maendeleo zaidi katika kipindi hicho.
+HATUA YA TATU (1964).
+Kipindi hichi kilileta maendeleo makubwa sana katika kompyuta, ambapo chombo cha kompyuta kilitengenezwa kwa kutumia (Integrated Circuits) chombo hicho kilichukua nafasi ya Transistor.
+Na pamoja na maendeleo makubwa kutokea mwaka 1972 shirika la Intel lilifanikiwa kutengeneza Processor ndogo ambayo ilibadilisha sura nzima ya kompyuta katika umbo dogo sana (Mini Computer).
+Na hiyo ilikuwa ni sifa pekee ya mabadiliko makubwa ya kompyuta, na katika kipindi cha mwaka 1975 shirika la IBM lilianzisha kompyuta ya kutumiya mtu mmoja (Personal Computer), vile vile katika kipindi hicho zilianzishwa programu za kuendeshea vifaa vya kompyuta, na miongoni mwa programu hizo ilikuwepo programu ya (Dos) Disk Operating System, Application Programs, na programu za kutengeneza picha (Graphics).
+HATUA YA NNE (1982).
+Mwanzoni mwa miaka ya themanini kulianza kuenea matumizi ya kumputa zenye kutumia Hard disk, na Processor zenye umbo dogo (Micro Processors) pamoja na programu za kuendeshea kompyuta (Operating System). Pia zilianzishwa kopi za programu za kuendeshea kompyuta (Dos), na hapo ndipo ilikuwa mwanzo wa kutumia windozi (Windows), na pia zilitumika programu nyingine ndani ya Windozi kama vile Word, Word 2, Word 6, Excel na power Point.
+HATUA BAADA YA HATUA YA NNE (1995).
+Kitu kinachosifika sana katika kipindi hichi ni kudhihiri kwa programu za Windozi na kuwa kama ni mazingira pekee ya kuendeshea kompyuta, na inajulikana wazi kwamba windozi ni kiini cha uendeshaji katika kazi za kompyuta, na imeitwa windozi kwa sababu unaweza kuitumia kufanyia kazi nyingi kwa wakati mmoja kwenye madilisha tofauti, kwa mfano pale mtumiaji anapokuwa anasubiri windozi moja ifunguke anaweza kuwa anasoma au kufanya kazi nyingine kwenye windozi nyingine pia..
+Na windozi ya kwanza kudhihiri ilikuwa ni Windows 95, 98, 2000, Millennium kisha Windows XP, vili vile zilianzishwa programu maalumu kutoka kwenye shirika la Microsoft, kama vile Microsoft Office 97, Microsoft Office 2000 na Microsoft Office 2003, ambazo ambazo zinakusanya ndani yake Microsoft Word, Excel, Access na Power Point, pia zinajulikana kwa jina la application programs.
+Kisha kiliendelezwa kifaa cha Processor kutoka Pentium kwenda Pentium 2, Pentium 3 na Pentium 4, pamoja na kuzidi uwepesi wa kufikia vitu mpaka Giga Byte 2.
+Pia ilizidishwa nafasi ya kuhifadhia data ndani ya Hard disk kiasi cha kufikia Giga Byte 300, na kufikia nafasi ya Ram zaidi ya Mega Byte 512.
+MAANA YA KOMPYUTA.
+Kompyuta ni mashine au chombo cha kielektroniki chenye uwezo wa kupokea na kukusanya taarifa (Data), kufanyia kazi na kutoa matokea ya kazi hiyo na namna ilivyoendeshwa, pamoja na kutoa matokeo ya kitu kilichofanyika, yaani kinachoonekana (Information)kwa haraka.
+TOFAUTI YA DATA NA HABARI (INFORMATION).
+Ni ibara ya taarifa au maelezo, na inaweza kuonekana katika sura ya maandishi, michoro, picha, namba, alama, nembo, sauti au lugha ya maandishi, au sauti pamoja na picha.
+Ni kazi inayotokana na taarifa au maelezo (Data) baada ya kwisha kupangiliwa na kufanyiwa kazi kisha kutoa matokeo kamili ya kazi hiyo, pamoja na kuleta kitu chenye kufahamika na chenye faida.
+SIFA ZA KOMPYUTA.
+kompyuta inafanya kazi kwa wepesi wa hali ya juu kiasi kwamba unaweza kutafuta kitu kwa muda wa sekunde chache tu, kitu ambacho kama utakitafuta kupitia chombo chengine unaweza kuchukuwa wakati mrefu mpaka kukipata na pengine usikipate, kwa mfano unaweza kufanya hesabu ngumu kwa muda mchache kuliko kutumia akili yako.
+Pia unaweza kutafuta somo lolote kupitia internet kwa kutumia muda mfupi kulipata somo hilo kuliko ungetumia marejeo ya vitabu vya kuchapishwa.
+Kompyuta inafanya kazi kwa ubora zaidi bila kuonyesha udhaifu na makosa ya aina yoyote, na kama itabainika ya kwamba kuna makosa yametendeka kwenye kazi yako kompyuta kabla ya kuendelea kufanya kazi inakuonyesha kwamba upo katika makosa na kukutaka mara moja kurekebisha makosa hayo kwa kukuletea tangazo lenye sehemu kadhaa za kuchagua, ima kuendelea na kazi yako kama ilivyo au kufanya marekebisho ya kazi yako, kwa mfano unapotafuta kitu kutoka kwenye kompyuta, kompyuta kabla ya kutekeleza amri hiyo inakuletea tangazo na kukuuliza ya kwamba ni kweli una uhakika wa kutaka kufuta kitu hicho au umefanya hivyo bila kukusudia?
+pia kompyuta imekuandalia kila kitu unachotaka kukifanya ndani yake kutegemea na malengo yako mwenyewe.
+Pia kompyuta inazingatiwa ni mwalimu au muelekezaji (Instructor), kwani inakuelekeza jinsi gani unaweza kufanya kazi yako kwa ukamilifu.pia ndani ya kompyuta kuna kitu kinachoitwa kisaidizi (help)mbacho kinatumika kwa ajili ya kufanya utafiti wa kitu fulani ili kufahamu matumizi na njia zake.
+Miongoni mwa mambo muhimu ndani ya kompyuta ni kupatikana sehemu kubwa ya kuhifadhia vitu kwa amani na bila kupotea vitu hivyo.
+AINA ZA MATUMIZI YA KOMPYUTA.
+Matumizi ya kompyuta yanatofautiana kutokana na malengo na makusudio ya mtumiaji mwenyewe, na matumizi ya kompyuta yamegawanyika katika sehemu kuu mbili.
+Kuna kompyuta zilizoandaliwa kwa ajili ya matumizi yote ambayo mtumiaji anaweza kutumia kutegemea na malengo yake binafsi, kwa mfano mhasibu anaweza kutumia kompyuta kwa ajili ya kufanyia kazi zake za uhasibu (hesabu).
+pia mwanasayansi, fundi, mwalimu na mwanafunzi, wote hao wanaweza kutumia kompyuta kwa malengo yao tofauti.
+Kompyuta hizi zimeandaliwa kwa ajili ya malengo maalumu tu, kama zile kompyuta zilizoandaliwa kwa ajili ya kuchorea moyo na kupigia picha za X-ray, ambazo ni vigumu kwa mtu mwengine kuzitumia kwa ajili ya kufanyia kazi zake binafsi ambazo zina tofautiana na hizo za hospitalini.
+AINA ZA KOMPYUTA.
+Kuna aina kuu tatu za kompyuta, nazo ni kama ifuatavyo:-
+Ni kompyuta zinazotumika kwa ajili ya kufanyia hesabu pamoja na kazi za kutumia akili.
+Ni kompyuta zinazotumika kwa ajili ya kupokea taarifa (Data) kama zile za kusomea hali ya hewa, kupimia mishipa ya damu na kupimia kiwango cha chumvi kwenye maji.
+zilizotangulia kutajwa hapo mwanzo, nazo zinatumika kwa ajili ya kutafutia taarifa (Data) kutoka kwa binadamu moja kwa moja na kupitia mandishi na vipimo.
+AINA ZA DIGITAL COMPUTERS.
+Takriban zinapatikana sehemu zote duniani, na zinauwezo na nafasi kubwa ya kuhifadhi vitu vingi (Information) na zinatumika kwa ajili ya kazi za kijeshi na sehemu za ukaguzi, pia kompyuta hizi haziruhusiwi kuhamishwa nje ya nchi na kujua jinsi gani zinatumika. Na zinasifika kuwa na umbile la kati na kati, pia zina uwezo mkubwa na uwepesi wa hali ya juu.
+Nazo ni kompyuta zenye umbile kubwa, na zilianza kudhihiri kwake katika mwanzo wa miaka ya hamsini, nazinasifika kwa uwezo mkubwa wa kuhifadhi vitu na pia uwepesi wa hali ya juu.
+Aina hizi za kompyuta zilidhihiri katika kipindi cha miaka ya sitini.Ni kompyuta zenye umbile dogo kuliko zile zilizotangulia kutajwa,na ni bora kwa kuunganishia kompyuta nyengine zinazotumika viwandani na ndani ya nchi.
+Aina hii ya kompyuta inakusanya aina zifuatazo:-
+Kompyuta za Kibinafsi(PCs) ambazo ni maalumu kwa ajili ya matumizi ya mtu mmoja tu.
+Nazo ni kompyuta za kubeba mkononi, ambazo zimegawanyika katika aina zifuatazo:-
+MATUMIZI YA KOMPYUTA.
+Kutokana na kuendelea kwa elimu ya teknolojia imetusaidia sana kujifunza mambo mbali mbali kupitia kompyuta, ambapo unaweza kutumia kompyuta kwa ajili ya kuuliza maswali na kujibiwa kwa haraka tena kwa njia tofauti, pia unaweza kutumia kompyuta kwa ajili ya kufanya majadiliano ya kielimu, pia unaweza kuandaa vipindi mbali mbali vya masomo na kufundishia elimu tofauti.
+Pia unaweza kuonyeshea filamu zenye mafundisho mazuri, kama kuonyesha filamu zenye elimu ya jeografia na sayansi ya mifugo na kilimo, kuonyesha sehemu muhimu za nchi yetu, kuonyesha athari za nchi ambazo ndiyo sehemu kuu zinazotuletea fedha za kigeni katika nchi yetu, na kuonyesha picha za maendeleo katika sekta mbali mbali za nchi yetu, pia kuonyeshea mila na tamaduni za taifa letu la Tanzania na mataifa mengine mbali mbali duniani n.k.
+Kompyuta zimeandaliwa ndani yake programu mbali mbali zenye michezo tofauti, ambayo inaweza kutumika na watu mbali mbali kutofautiana na umri wao, na ambayo inajulikana kama moja ya kazi za kukuza kipaji na kuchangamsha akili, na ni sehemu moja wapo ya kuburudisha nafsi.
+Kompyuta zinaweza kutumika kwa ajili ya kufanyia kazi za ufundi, kama kuchora ramani ya nyumba na mazingira ya nje ya nyumba, kutengenezea picha kwa kuibadilisha na kuiremba na kuifanya ionekane katika sura nyengine ambayo tofauti na ile ya asili.
+Kompyuta inaweza kutumika kwa ajili ya kufanyia mawasiliano kupitia mtandao wa (Internet) ambao leo hii ndiyo umeshika nafasi kubwa sana ya mawasiliano kuliko kitu chengine ulimwenguni, kama kuwasiliana kwa kutumiana ujumbe wa barua pepe (E-mail) ambayo ni rahisi na inafika haraka kuliko barua za kupitia posta, pia kwa kutumia barua pepe hakuna haja ya kufikiria sehemu aliko mtu America au Asia au sehemu nyengine duniani, kuwasiliana kwa maneno ya maandishi (Chat), pia kuwasiliana kwa maneno ya sauti na kuonekana picha.
+Kwa kutumia kompyuta unaweza kuendeshea kazi za usafirishaji katika vituo vikuu vya usafirishaji, kama usafiri wa ardhini (mabasi, metro na treni), usafiri wa majini (meli), na usafiri wa angani (ndege).
+Kama kuendeshea mashine viwandani kwa ajili ya kuzalisha bidhaa mbali mbali, kama kutengenezea magari, kuzalishia umeme na kutengenezea bidhaa nyengine za kawaida kama nguo mazulia n.k.
+Kama ilivyokuwa ada na kawaida hivi sasa kutumia kompyuta kwa ajili ya kuendeshea kazi za benki,kwa ajili kurahisisha kazi za mahesabu.
+Kompyuta zimekuwa na matumizi makubwa na muhimu sana katika kufanyia uchunguzi na matibabu hospitalini, kama kuchunguza na kuelekeza dawa ya kutibu ugonjwa uliyoonekana, pia kupimia na kujaribia mimba na kutoa maelekezo kuhusiana na siku na tarehe ya kujifungua.
+KAZI ZA KOMPYUTA.
+Kama ilivyotanguliwa kusemwa hapo awali kuwa kompyuta ni chombo pekee chenye uwezo mkubwa wa kuhifadhi vitu, na mpaka hivi sasa bado hakijapatikana
+chombo chengine chenye uwezo mkubwa wa kuhifadhia vitu zaidi ya kompyuta.
+2. kuonyeshea matokeo ya vitu (Data na Information):
+Kutokana na kuendelea elimu ya teknolojia imeweza kuturahisishia kazi zetu nyingi
+ambazo tulikuwa tunazifanya kupitia vyombo mbali mbali, na kila chombo kilikuwa na kazi yake maalumu, tofauti na kompyuta ambapo mtu anaweza kuanzisha au kutengeneza kitu na wakati huo huo anaweza kukionyesha kwa kutumia kompyuta yenyewe, yaani kuonyesha ufanisi na sura nzuri ya kitu kilichofanyika.
+KOMPYUTA IMEGAWANYIKA KATIKA SEHEMU KUU MBILI.
+Sehemu zinazoshikika (Hardware), ni aina zote za vifaa vya kompyuta, navyo vimegawanyika katika sehemu kuu tatu.
+Vifaa vya kuingizia vitu (Input devices):
+Kibodi inatumika kwa ajili ya kuingizia herufi, namba, alama na michoro, nayo imegawanyika katika sehemu kuu nne, nazo ni kama ifuatavyo: Funguo za kuandikia (Typewriter keys), funguo za kuhama (Movement keys), funguo za namba pamoja na michoro mingine (Numeric keys) na funguo za kazi Function keys).
+JEDWALI LINALOONYESHA FUNGUO NA KAZI ZAKE:
+Home Inatumika kwa ajili ya kuhamia mwanzo wa mstari
+End Inatumika kwa ajili ya kuhamia mwisho wa mstari.
+Inatumika kwa ajili ya kuhamia juu ya mstari.
+Inatumika kwa ajili ya kuhamia upande wa kushoto mwa mstari.
+Inatumika kwa ajili ya kuhamia upande wa kulia mwa mstari.
+Inatumika kwa ajili ya kuhamia chini ya mstari.
+Pg Up Inatumika kwa ajili ya kuhamia juu ya mstari.
+Pg Dn Inatumika kwa ajili ya kuhamia chini ya mstari.
+Num lock Inatumika kwa ajili ya kufunga na kufungulia namba na michoro.
+Caps lock Inatumika kwa ajili ya kufunga na kufungulia.
+Enter Inatumika kwa ajili ya kutekeleza amri, au kuanzisha fungu la maneno kwenye ukurasa..
+Del “Delete” Inatumika kwa ajili ya kufuta herufi ya mbele yake.
+“Back space" Inatumika kwa ajili ya kufuta herufi ya nyuma yake.
+Space “Space bar” Inatumika kwa ajili ya kuweka masafa kati ya maneno.
+Esc “Escape” Inatumika kwa ajili ya kuacha kutekeleza amri.
+Tab Inatumika kwa ajili ya kuwacha masafa maalumu tofauti na ya kawaida (Normal).
+Ctrl “Control” inatumika daima pamoja na ufunguo mwengine kwa ajili ya kutekeleza amri maalumu.
+Alt inatumika daima pamoja na ufunguo mwengine kwa ajili ya kutekeleza amri maalumu.
+Shift inatumika daima pamoja na ufunguo mwengine kwa ajili ya kutekeleza amri maalumu.
+Alt-Shift Inatumika kwa ajili ya kubadilishia lugha.
+Ctrl-Shift Inatumika kwa ajili ya kubadilishia mwelekeo ndani ya ukurasa (kulia au kushoto)
+Print screen Inatumika kwa ajili ya kupiga picha kitu chochote kwenye kompyuta.
+Ctrl-Alt-Del Inatumika kwa ajili ya kuwasha upya kompyuta.
+Kuna vitufe viwili kwenye kila mausi, kitufe cha upande wa kushoto (Left click) kinatumika kufungulia windozi, programu na kuchagulia maandishi, maneno na picha, na kitufe cha upande wa kulia (Right click) kinatumika kufungulia orodha ya mapendekezo ya kazi.
+Skana inatumika kwa ajili ya kuingizia picha ndani ya kompyuta.
+Na kitu chochote kile kinachoingia ndani ya kompyuta kwa njia ya skana kinapewa sifa ya picha.
+Makrofoni inatumika kwa ajili ya kuingizia sauti ndani ya kompyuta.
+Kamera inatumika kwa ajili ya kupigia picha na kuingiza ndani ya kompyuta.
+Viafaa vya kutolea vitu (Output devices):
+Skrini inatumika kwa ajili ya kuonyeshea matokeo ya vitu vilivyofanyika ndani ya kompyuta.
+Kipaza sauti kinatumika kwa ajili ya kutolea sauti kutoka ndani ya kompyuta.
+Printa inatumika kwa ajili ya kutolea vitu vya maandishi au picha kwenye kompyuta kwa njia ya karatasi (kuchapisha).
+Plota ni ni chombo kinachotumika kwa ajili ya kutolea vitu, ambacho kinafanana na printa katika ufanisi wake wa kazi, lakini umbile lake ni kubwa kuliko printa, na kinatumika kwa ajili ya kuchapishia picha na michoro ya kiufundi, pia kinaweza kutumika kwa ajili ya kuchapisha maandishi kama herufi namba na alama.
+Kompyuta haiwezi kufanya kazi mpaka kipatikane kitu kinachoitwa software, ambocho kinawakilisha programu zinazoendesha kompyuta. Na programu hizo zimegawanyika katika sehemu kuu mbili:-
+1. Programu za kuendeshea kompyuta (operating systems), programu hizo zinaitwa windows, na kuna aina nyingi za windows kulingana na toleo lake na ubora wake, kwani kila siku zinavyozidi kwenda mbele ndipo tunapozidi kupokea programu nyingine za windows na zenye ubora zaidi kuliko zile zamani.
+2. Programu za kufanyia kazi (application systems), nazo ni Microsoft Office na Graphics design, programu hizo daima zinafanya kazi ndani ya windows, ambazo zinatumika kwa ajili ya kazi mbali mbali za uandishi na hesabu, na kazi nyenginezo za kuunda na kutengeneza picha n.k.
+vifaa vya kuendeshea vifaa vya kuingizia na kutolea
+Vifaa hivi vipo ndani ya chombo kiitwacho (C.P.U) kifupi cha Central Processing Unit, ambacho ni kiini cha kompyuta na ndicho kinachofanya kazi ya kuviendesha vifaa vyote vya kompyuta na kutoa maelekezo yote.
+Na C.P.U. ni sehemu kuu ya nguvu ya kompyuta, au kitovu cha kompyuta.
+Ndani ya madhabodi (Motherboard) kinapatikana kifaa kinachoitwa (Bios) kifupi cha Basic Input Output System, ambacho ndicho kinachofanya kazi ya kuviendesha vifaa vya kuingizia na kutolea vitu.
+Na ni vigumu kufuta au kurekebisha vitu vilivyomo ndani ya kifaa hicho kwani vinazingatiwa ni vitu vya kusomea tu na si kwa kazi nyingine.
+2. akili na mahesabu (arithmetic logical):
+Kazi za mahesabu ni kazi zote zinazofanyika na hesabu, kama vile kutoa, Kujumlisha, kuzidisha na kugawanya. Na za akili
+Windows Xp inazingatiwa kuwa ni miongoni mwa Windows za kisasa zenye kufanya kazi kwa ufanisi zaidi kuliko zile za zamani, kama Windows 95, Windows 98 na Windows Millenium.
+Kabla ya kuanza kutumia windows unatakiwa kufanya mambo yafuatayo:-
+1. Kuhakikisha waya wa umeme umeshaunganisha kwenye kompyuta yako.
+2. Kufungua kompyuta kwa kutumia sehemu inayoitwa power.
+3. Kusubiri mpaka idhihiri sehemu inayoitwa desktop.
+Ndugu msomaji makala hii yenye anuani (hatua za kuendelea kompyuta imeletwa kwenu na ndugu Mahmoudu Twahiri Khamisi mwanafunzi wa chuo kikuu cha Al-zhar nchini Misr kitivo cha maktaba na teknolojia ya habari, naomba usome kwa makini na kama utakuwa unaujuzi zaidi nawe pia unatakiwa kuchangia ili tuweze kuwanufaisha ndugu zetu waswahili nao pia wafaidike na elimu ya kisasa, asanteni sana.

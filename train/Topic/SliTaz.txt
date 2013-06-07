@@ -1,0 +1,2 @@
+SliTaz.
+SliTaz is a GNU/Linux free operating system, working completely in RAM. It is fast and suitable also for older, slower computers.

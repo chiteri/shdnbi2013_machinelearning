@@ -1,0 +1,4 @@
+Puku (kompyuta).
+Puku ya kompyuta ni kifaa cha kuingizia data katika tarakilishi.
+Puku hushikwa kwa mkono na kusukumwa mezani. Mwendo wake husababisha mshale wa kasa (kielekezi) kutembea kwenye kiwamba.
+Mtumiaji hulenga kwa mshale huko anapochagua kotoa amri kwa kubofya kitufe cha puku. Tendo hili lasababisha amri inayoonekana kama alama au mchoro kwenye skrini kutekelezwa na programu ya kompyuta.

@@ -1,0 +1,5 @@
+Kuki.
+Kuki'" ni tafsiri ya muda ya neno la Kiingereza "'cookie'".
+Maana yake asili ni "biskuti", lakini neno la "kuki" linatumika ili kompyuta yenye kurasa za tovuti iweze kuwasaliana na watazamaji.
+Programu za tovuti hizi inahifadhi habari kadhaa za mtazamaji au mtumiaji (k.m. jina la mtumiaji, neno la siri, ruhusa, mapendekezo) kwenye kompyuta ya mtazamaji mwenyewe. Hivi mtazamaji anatambuliwa kila wakati anaingia kwenye tovuti hii.
+Pendekezo la "kuki" limepelekwa mbele na Mradi wa Kilinux (Linux na Open Office kwa Kiswahili) wa Chuo Kikuu cha Dar es Salaam. Mradi wa kampuni ya Microsoft ya kuswahilisha programu ya "Windows" umependekeza kutumia neno "kidakuzi" pamoja na "kuki".

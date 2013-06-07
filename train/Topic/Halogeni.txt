@@ -1,0 +1,48 @@
+Halogeni.
+Halogeni'" (Kigiriki hals, “chumvi”; genes, “kuzaliwa”), katika kemia, ni simetali za kundi la 17 katika mfumo wa IUPAC (kabla zilifahamika kuwa katika kundi la VII, VIIA) katika jedwali la elementi zinazohusiana kwa karibu sana – fluorine, chlorine, bromine, iodine na astatine. Jina la halogeni, au mzalisha chumvi, linaelekeza katika tabia ya kila halogeni kutengeneza chumvi na sodium kama ile chumvi ya mezani (sodium chloride). Kila mhusika wa kundi hili ana valensi ya -1 na huungana na metali kutengeneza halides, pia huungana na metali na simetali kutengeneza ayoni zenye miundo tata.
+Asili ya elementi.
+Elementi za kundi la VII, fluorine, chlorine, bromine, iodine na astatine hujulikana kama halogeni. Miaka mingi iliyopita jina hili lilitoholewa kutoka maneno mawili ya kigiriki yenye maana "kutengeneza chumvi ya bahari". Hata hivyo halogeni zote hupamabana na metali za kundi la I na kutengeneza chumvi za ayoniki kama vile sodium chloride, NaF, sodium chloride, NaCl, potassium bromide, Kbr na nyingine nyingi.
+Halogeni zote ni kovalenti na zinaonyesha mlolongo wa tabia zinazotarajiwa kutokana na nafasi zao katika mpangilio wa Jedwali la Elementi. Zaidi kabisa zina tabia ambazo ni muhimu sana zinazozifanya kuwa bidhaa za thamani. Jedwali hapo chini linaonyesha baadhi ya tabia zao muhimu.
+Astatine imetayarishwa kwa kiwango kidogo sana katika pambano la kinyukliasi hivyo baadhi ya tabia zake bado zinaendelea kusomwa.
+Flourine.
+Kati ya mwaka 1813 na 1814, Humphry Davy alifanya mlolongo wa majaribia ambayo alithibitisha uwepo wa elementi mpya katika idadi fulani ya kampaundi. Aliita elementi hiyo flourine. Kwa bahati mbaya alishindwa kupata hata kiwango chake kidogo kikiwa peke yake. Hii iliwezeshwa na mwanakemia wa Kifaransa Henri Moissan. Moissan alipitisha umeme katika hydrogen flouride kavu iliyokuwa na potassium hydrogenflouride, KHF2, iliyoyeyushwa ndani yake. Njia yake hii ya ugunduzi imeendelea kutumiwa viwandani kama njia ya kupata flourine.
+Elementi ya flourine hutengeneza muungano thabiti na elementi nyingine inayopambana nayo, hivyo ni kwa umeme pekee ndio unaweza kuvunja muungano huu na elementi zingine.
+Chlorine.
+Chlorine ilitengwa kwa mara ya kwanza na Scheele mnamo mwaka 1774, lakini asili yake kama elementi ilianzishwa na Davy. Hatimaye mnamo mwaka 1810 alikuwa ni Davy ambaye aliipa jina lake la chlorine (hii ilitoholewa kutoka neno la kigiriki lililomaanisha "kijani kilichofifia"). Kabla ya kupewa jina hili, chlorine ilikuwa inafahamika kama asidi ya oxymuriatic. Mojawapo ya sababu kuhusu jina hili ilikuwa, mpaka majaribio ya Davy yalipokubalika, wanakemia wengi waliamini gasi hii kuwa ni kampaundi ya oksijeni na elementi nyingine.
+Chlorine hupatikana viwandani kwa kiwango kikubwa kwa elektrolisisi ya brine.
+Bromine.
+Bromine ambayo jina lake linamaanisha "kunuka" iligunduliwa na Antoine Balard mnamo mwaka 1826. Balard hakuwa mwanakemia maarufu, hata iliwahi kusemwa kuwa badala Balard kuigundua bromine, ilikuwa ni bromine iliyomgundua Balard. Aliigundua elementi kwa bahati wakati akifanya majaribio kwenye maji ya bahari. Alishitushwa na rangi ya kimanjano ya machungwa ambayo bromine huwa inatoa pale inapotengezwa kutokana na maji ya bahari na chlorine. Pambano hili ni kutokana na oksidesheni ya ayoni za bromine kwa chlorine.
+2Br-(aq) + Cl2(aq) → Br2(aq) + 2Cl-(aq)
+Pambano hili limekuwa likitumika viwandani kama njia ya kutenganisha bromine. Kumekuwa na njia mbalimbali viwandani zinazotumika katika kutengeneza bromine, lakini yote hufuata msingi wa pambano hili.
+Iodine.
+Malimbikizo ya sodium nitrate ("Chile saltpetre") mara nyingi huwa na sodium iodate, NaIO3, kama nyongeza. Endapo nyongeza hii ipo kwa kiasi kikubwa basi hutumika katika kutengeneza iodine kutoka katika iodate. Zoezi zima la utenganishaji hufanyika katika hatua tatu za muhimu:
+Iodine inaweza kuchujwa kutoka katika mchanganyiko na kufukizwa ili kupata iodine safi.
+Matayarisho ya halogeni katika maabara..
+Halogeni zote ni sumu hivyo inabidi kuwa makini sana unapofanya mapambano katika maabara yanayozihusisha. Inabidi ziwe zinatengenezwa katika kifaa kinachozuia gasi kuvuja. Fluorine ni ngumu sana kuitengeneza katika maabara. Halogeni zingine zinaweza kutengenezwa kutoka katika hydrogen halide husika, HCl, Hbr, au HI. Kwa kawaida wakala wa oksidesheni (oxidation) atumikaye ni manganese(IV) oxide.
+Chlorine.
+Chanzo rahisi cha hydron chloride ni asidi ya hydrochloric iliyokolea. Kama asidi na manganese(IV) oxide zitapashwa joto kwa pamoja, chlorine hutoka. Kama unataka chlorine safi, gesi hupitishwa kwanza katika maji na kisha katika asidi ya sulphuric iliyokolea. Maji huyeyusha mabaki ya asidi ya hydrochloric, na asidi ya sulphuric hukausha gesi.
+MnO2(s) + 4HCl(aq) → MnCl2(aq) + Cl2(g) + 2H2O(l)
+2Cl-(aq) + 4H+(aq) + MnO2(s) → Mn2+(aq) + Cl2(g) + 2H2O(l)
+Kama utahitaji chlorine ambayo siyo safi ndani ya muda mfupi, inawezekana kwa kudondosha tone la asidi ya hydrochloric iliyokolea juu ya mabonge ya potassium manganate(VII):
+2KMnO4(s) + 16HCl(aq) → 2KCl(aq) + 2MnCl2(aq) + 5Cl2(g) + 8H2O(l)
+Bromine.
+Hydrogen bromide haipatikani sana, hivyo ni lazima itengenezwe wakati wa kutayarisha gesi kutoka katika kampaundi zenye bromine. Hydrogen bromide hutengezwa wakati, kwa mfano, potassium bromide inapochanganywa na asidi ya sulphuric iliyokolea. Hata hivyo, kama manganes(IV) oxide itachanganywa katika asidi, kabla hydogen bromide haijatoweka hupambana nayo kutengeneza bromine.
+Pambano zima ni sawa na lile la chlorine, badili chlorine kwa bromine katika mlinganyo wa hapo juu.
+Iodine.
+Iodine inaweza kutengezwa kwa njia sawa kama bromine. Tofauti yao kubwa ni kuwa iodine ni yabisi katika jotoridi la kawaida.
+Na maji.
+Wote flourine na chlorine wanaweza "kuoksidaizi" maji. Fluorine hutoa mchanganyiko wa oksijeni na trioxygen (ozone), kwa mfano:
+2F2(g) + 2H2O(l) → O2(g) + 4HF(aq)
+Chlorine ambayo siyo wakala wa oksidesheni mwenye nguvu, huwa hatoi oksijeni. Badala yake, hutoa mchanganyiko wa asidi ya hydrochloric na chloric (jina la zamani la asidi ya chloric(I) ni asidi ya hypochlorous):
+Cl2(g) + H20(l) → H+(aq) + Cl-(aq) + H+(aq) + ClO-(aq)
+asidi ya hydrochloric asidi ya chloric(I)
+Ayoni za Chlorate(I), ClO-, katika maji ya chlorine ndizo hasa zinazohusika na tabia ya kufuta rangi (pia kuondoa madoa) ya chlorine. Kwa mfano kama utaweka nguo yenye rangi katika maji ya chlorine, rangi yote itatolewa. Ayoni ya chlorate(I) ina uwezo wa kupoteza oksijeni kwa urahisi sana, kitendo ambacho kinatumika katika mchakato wa oksidesheni.
+Maji ya chlorine, yatatoa mapovu ya oksijeni kama yataachwa katika mwanga wa jua kutokana na uvunjikaji wa ayoni ya chlorate(I):
+Iodine haiyeyuki ndani ya maji, hivyo haina nguvu yoyote katika maji.
+Na alkali.
+Kuna mabadiliko ya aina mbili kutegemeana na jotoridi la alkali. Katika mapambano yafuatayo, chukulia X kuwakilisha aina yoyote ya halogeni:
+X2(g) + 2OH-(aq) → X-(aq) + XO-(aq) + H2O(l)
+Cl2(g) + 2OH-(aq) → Cl-(aq) + ClO-(aq) + H2O(l)
+3X2(g) + 6OH-(aq) → 5X-(aq) + XO3-(aq) + 3H2O(l)
+3Cl2(g) + 6OH-(aq) → 5Cl-(aq) + ClO3-(aq) + 3H2O(l)
+Tofauti kubwa kati ya mapambano haya mawili ni, kwa kutumia alkali ya baridi isiyokolea, chlorate(I), ClO- zilitengenezwa; wakati kwa kutumia alkali ya moto iliyokolea chlorate(V), ClO3- ilitengenezwa.

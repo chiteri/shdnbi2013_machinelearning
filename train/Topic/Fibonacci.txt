@@ -1,0 +1,7 @@
+Fibonacci.
+Fibonacci'" (mnamo 1175 - 1250) alikuwa mtaalamu wa hisabati kutoka nchini Italia. Anakumbukwa kama mwanahisabati muhimu zaidi wa Ulaya wakati ya zama za kati.
+Jina lake la kiraia ilikuwa "'Leonardo wa Pisa lakini aliitwa kwa jina la babake Bonacci.
+Mfululizo wa Fibonacci.
+Fibbonacci anakumbukwa hasa kwa jedwali ya namba inayoitwa mfululizo wa Fibonacci.
+Inaanza hivyo: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89...
+Katika mfululizo huu namba inayofuata ni jumla ya namba mbili zinazotangulia:

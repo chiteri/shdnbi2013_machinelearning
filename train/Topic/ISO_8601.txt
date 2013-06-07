@@ -1,0 +1,13 @@
+ISO 8601.
+ISO 8601'" ni mfumo wa kimataifa uliokubaliwa kwa maelewano juu ya namna ya kutaja tarehe na wakati.
+Kimetolewa na Shirika la Kimataifa la Usanifishaji (kwa Kiingereza "International Organization for Standardization (ISO)").
+ISO 8601 ni orodha ya mapendekezo namna ya kuandika tarehe na wakati katika mawasiliano ya kimataifa. Jina la kiingereza ni "Data elements and interchange formats -- Information interchange -- Representation of dates and times"
+Tarehe.
+Pendekezo la kutaja tarehe ni muundo wa "'YYYY-MM-DD'" ambako Y ni mwaka (year), M ni mwezi na D ni siku. Hivyo inapendekezwa kutaja tarehe 7 mwezi wa nane mwaka 2007 kama 2007-08-07 na kutosahau sifuri kama mwezi au siku ina namba moja tu.
+Wakati.
+Pendekezo la kutaja wakati ni muundo wa wa kutumia saa 24 kwa siku na kuandika "'hh:mm:ss ambako h ni saa (hour), m ni dakika na s ni sekonde. Hivyo inapendekezwa kutaja wakati wa saa tatu ya asubuhi na dakika thelathini na sita na sekonde 47 kama 09:36:47. Hivyo 23:59:59 ni sekonde moja kabla ya saa sita usiku.
+Saa sita usiku kamili unaweza kuandikwa kwa namna mbili kama 00:00 na 24:00 ingawa ni wakati huohuo. Tofauti yake ni nikitaka kutaja mwisho wa siku naweza kuandika: Muda unakwisha leo kwenye saa 24:00. Nikitaka kutaja mwanzo wa siku naweza kuandika: Nafasi inafunguliwa kuanzia kesho saa 00:00.
+Juma.
+Juma zahesabiwa katika kila mwaka kuanzia 1 hadi 52 au 53. Kwa sababu juma halianzi pamoja na mwaka mpya azimio ni ya kwamba juma ile lenye Alhamisi ya kwanza katika mwaka mpya itakuwa "juma no. 1". Itakuwa pia juma yenye tarehe 4 Januari ndani yake.
+Hesabu ya wiki hutumiwa hasa kiuchumi wakati wa kupanga kazi ofisini au kiwandani na wakati wa kupatana huduma kati ya makampuni kama tarehe inaruhusiwa kubadilika kidogo lakini juma ya kutolewa kwa huduma au bidhaa ni muhimu.
+ISO 8601 yapendekeza pia kuhesabu Jumatatu kama siku ya kwanza katika jua yaani siku ya kwanza ya kazi kamili baada ya wikendi ya kimagharibi. Pendekezo hili halilingani na mapokeo na historia ya juma yenyewe na mafundisho ya dini kadhaa hivyo haiangaliwi mahali pengi au kutumiwa pamoja na hesabu ya kiutamaduni ya siku zinazoanza juma kwa Jumapili.

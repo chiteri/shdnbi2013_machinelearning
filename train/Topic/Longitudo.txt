@@ -1,0 +1,6 @@
+Longitudo.
+Ramani ya dunia inayoonyesha mistari ya longitudo na latitudo
+Longitudo'" "(kilatini: longitudo)" katika ramani au mchoro wa dunia,ni njia ya kuonyesha mahali duniani kwa kutaja umbali wake kutoka mstari wa meridiani ya sifuri kwa kipimo cha digrii (°). Kwenye msingi wa digrii 360 za duara digrii hizi za latitudo huehesabiwa hadi +180° (kwenda mashariki) au hadi -180° (kwenda magharibi). Ni kawaida vilevile kutaja tofauti kati ya longitudo za mashariki au magharibi kwa kuongeza herufi za "E" (east) na "W" (west) badala ya +/-. Pamoja na kipimo cha latitudo inataja kamili kila mahali duniani.
+Meridiani ya 0° imekubaliwa ni mstari kutoka ncha ya kaskazini hadi ncha ya kusini unaopita katika mji wa Greenwich (karibu na London / Uingereza).
+Digrii za longitudo hugawiwa katika umbali wa 60 dakika au minuti; dakika hugawiwa katika nukta au sekondi. Umbali huu hauna kipimo kamili cha urefu kwa sabau ya umbo la dunia. Kwenye ikweta umbali kati ya longitudo ni 111 km, katika ncha penyewe ni sifuri kwa sababu longitudo zote hukutana hapa.
+Mji wa Kiafrika karibu kwenye longitudo ya sifuri ni Accra (Ghana). Vipimo vyake ni: 5°30' N (latitudo) na 0°10' W (longitudo).

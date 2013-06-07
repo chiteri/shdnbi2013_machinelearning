@@ -1,0 +1,65 @@
+Absolute value.
+In mathematics, the absolute value'" (or "'modulus'") of a real number  is the non-negative value of  without regard to its sign. Namely, for a positive , for a negative , and. For example, the absolute value of 3 is 3, and the absolute value of −3 is also 3. The absolute value of a number may be thought of as its distance from zero.
+Generalisations of the absolute value for real numbers occur in a wide variety of mathematical settings. For example an absolute value is also defined for the complex numbers, the quaternions, ordered rings, fields and vector spaces. The absolute value is closely related to the notions of magnitude, distance, and norm in various mathematical and physical contexts.
+Terminology and notation.
+Jean-Robert Argand introduced the term "module", meaning 'unit of measure' in French, in 1806 specifically for the "complex" absolute value and it was borrowed into English in 1866 as the Latin equivalent "modulus". The term "absolute value" has been used in this sense since at least 1806 in French and 1857 in English. The notation was introduced by Karl Weierstrass in 1841. Other names for "absolute value" include "the numerical value" and "the magnitude".
+The same notation is used with sets to denote cardinality; the meaning depends on context.
+Real numbers.
+For any real number  the absolute value'" or "'modulus'" of  is denoted by (a vertical bar on each side of the quantity) and is defined as
+As can be seen from the above definition, the absolute value of  is always either positive or zero, but never negative.
+From an analytic geometry point of view, the absolute value of a real number is that number's distance from zero along the real number line, and more generally the absolute value of the difference of two real numbers is the distance between them. Indeed the notion of an abstract distance function in mathematics can be seen to be a generalisation of the absolute value of the difference (see "Distance" below).
+Since the square-root notation without sign represents the "positive" square root, it follows that
+which is sometimes used as a definition of absolute value.
+The absolute value has the following four fundamental properties:
+Other important properties of the absolute value include:
+Two other useful properties concerning inequalities are:
+These relations may be used to solve inequalities involving absolute values. For example:
+Absolute value is used to define the absolute difference, the standard metric on the real numbers.
+Complex numbers.
+Since the complex numbers are not ordered, the definition given above for the real absolute value cannot be directly generalised for a complex number. However the geometric interpretation of the absolute value of a real number as its distance from 0 can be generalised. The absolute value of a complex number is defined as its distance in the complex plane from the origin using the Pythagorean theorem. More generally the absolute value of the difference of two complex numbers is equal to the distance between those two complex numbers.
+where and are real numbers, the absolute value'" or "'modulus'" of  is denoted and is given by
+When the complex part is zero this is the same as the absolute value of the real number .
+When a complex number  is expressed in polar form as
+with and θ real, its absolute value is
+The absolute value of a complex number can be written in the complex analogue of equation (1) above as:
+where [Formula 23] is the complex conjugate of .
+The complex absolute value shares all the properties of the real absolute value given in equations (2)–(11) above.
+Since the positive reals form a subgroup of the complex numbers under multiplication, we may think of absolute value as an endomorphism of the multiplicative group of the complex numbers.
+Absolute value function.
+The real absolute value function is continuous everywhere. It is differentiable everywhere except for  = 0. It is monotonically decreasing on the interval and monotonically increasing on the interval. Since a real number and its negative have the same absolute value, it is an even function, and is hence not invertible.
+Both the real and complex functions are idempotent.
+It is a piecewise linear, convex function.
+Relationship to the sign function.
+The absolute value function of a real number returns its value irrespective of its sign, whereas the sign (or signum) function returns a number's sign irrespective of its value. The following equations show the relationship between these two functions:
+Derivative.
+The real absolute value function has a derivative for every, but is not differentiable at. Its derivative for is given by the step function
+The subdifferential of  at  is the interval .
+The complex absolute value function is continuous everywhere but complex differentiable "nowhere" because it violates the Cauchy–Riemann equations.
+The second derivative of  with respect to  is zero everywhere except zero, where it does not exist. As a generalised function, the second derivative may be taken as two times the Dirac delta function.
+Antiderivative.
+The antiderivative (indefinite integral) of the absolute value function is
+where is an arbitrary constant of integration.
+Distance.
+The absolute value is closely related to the idea of distance. As noted above, the absolute value of a real or complex number is the distance from that number to the origin, along the real number line, for real numbers, or in the complex plane, for complex numbers, and more generally, the absolute value of the difference of two real or complex numbers is the distance between them.
+The standard Euclidean distance between two points
+in Euclidean -space is defined as:
+This can be seen to be a generalisation of, since if and are real, then by equation (1),
+The above shows that the "absolute value" distance for the real numbers or the complex numbers, agrees with the standard Euclidean distance they inherit as a result of considering them as the one and two-dimensional Euclidean spaces respectively.
+The properties of the absolute value of the difference of two real or complex numbers: non-negativity, identity of indiscernibles, symmetry and the triangle inequality given above, can be seen to motivate the more general notion of a distance function as follows:
+A real valued function on a set is called a metric (or a "distance function") on , if it satisfies the following four axioms:
+Ordered rings.
+The definition of absolute value given for real numbers above can be extended to any ordered ring. That is, if  is an element of an ordered ring "R", then the absolute value'" of , denoted by, is defined to be:
+where is the additive inverse of , and 0 is the additive identity element.
+Fields.
+The fundamental properties of the absolute value for real numbers given in (2)–(5) above, can be used to generalise the notion of absolute value to an arbitrary field, as follows.
+A real-valued function  on a field "F" is called an "absolute value" (also a "modulus", "magnitude", "value", or "valuation") if it satisfies the following four axioms:
+Where 0'" denotes the additive identity element of "F". It follows from positive-definiteness and multiplicativeness that, where 1'" denotes the multiplicative identity element of "F". The real and complex absolute values defined above are examples of absolute values for an arbitrary field.
+If is an absolute value on "F", then the function  on, defined by, is a metric and the following are equivalent:
+An absolute value which satisfies any (hence all) of the above conditions is said to be "'non-Archimedean'", otherwise it is said to be Archimedean.
+Vector spaces.
+Again the fundamental properties of the absolute value for real numbers can be used, with a slight modification, to generalise the notion to an arbitrary vector space.
+A real-valued function on a vector space "V" over a field "F", represented as ‖"V"‖, is called an absolute value'" (or more usually a "'norm'") if it satisfies the following axioms:
+For all  in "F", and v'", "'u'" in "V",
+The norm of a vector is also called its "length" or "magnitude".
+In the case of Euclidean space R"n", the function defined by
+is a norm called the Euclidean norm. When the real numbers R'" are considered as the one-dimensional vector space "'R'"1, the absolute value is a norm, and is the -norm for any . In fact the absolute value is the "only" norm on "'R'"1, in the sense that, for every norm on "'R'"1. The complex absolute value is a special case of the norm in an inner product space. It is identical to the Euclidean norm, if the complex plane is identified with the Euclidean plane "'R'"2.

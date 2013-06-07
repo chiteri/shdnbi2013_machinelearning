@@ -1,0 +1,17 @@
+QRpedia.
+QRpedia'" ni mfumo wenye msingi kwenye Mtandao ambao unatumia kodi za QR kutoa makala ya Wikipedia kwa watumiaji, katika lugha ambazo wanapendelea.Kodi ya QR inazalishwa kwa urahisi kutoka kwa KISARA (Kioneshi Sanifu Rasilimali) lakini mfumo wa utendaji wa QRpedia anaongeza zaidi.
+QRpedia ilianzishwa na Roger Bamkin, aliyekuwa mwenyekiti wa Wikimedia Uingereza, programu tumizi hii iliandikwa na Terence Edeni, na ilizinduliwa mwezi Aprili 2011. Kwa sasa inatumika katika jumba za makumbusho kadhaa ikiwa ni pamoja na makumbusho nchini Uingereza, Marekani na Hispania. Kodi ya programu hii ya inaweza kutumika tena chini ya leseni ya MIT
+Mchakato.
+Wageni wa Jumba la makumbusho la Derby wakitumia simu ya rununu ku skani kodi ya QR ya QRpedia
+Wakati mtumiaji anaskani kodi ya QR ya QRpedia kwenye kifaa chao cha mkononi, kifaa kinasimbua kodi ya QR kuelekea kwa KISARA (Kioneshi Sanifu Rasilimali) kwa kutumia jina la kikoa "qrwp.org" na ambacho njia (sehemu ya mwisho) ni kichwa cha makala ya Wikipedia, na inatuma ombi kwa ajili ya makala maalum katika KISARA (Kioneshi Sanifu Rasilimali) kwenye seva ya mtandao ya QRpedia.Pia inarusha mpangilio wa lugha ya kifaa.
+Seva ya QRpedia halafu inatumia API ya Wikipedia kuamua kama kuna toleo la makala maalum ya Wikipedia kwa lugha inayotumiwa na kifaa, na kama ni hivyo, inarudisha katika fomati yenye urafiki kwa simu.Kama hakuna toleo la makala linapatikana katika lugha iliyopendelewa, basi seva ya QRpedia inatoa chaguo la lugha inayopatikana, au tafsiri ya Google.
+Kwa njia hii, QRcode moja inaweza kutoa makala hayo katika lugha nyingi,hata wakati jumba la makumbusho haliwezi kufanya tafsiri zake lenyewe. QRpedia pia inarekodi takwimu za matumizi.
+Chanzo.
+lebo ya uchoraji katika jumba la makumbusho la Derby "Mhadhiri Mwanafalsafa akifunza juu ya Orrery" kodi ya QRpedia inaunganisha na makala ya Wikipedia kuhusu hilo linalofunzwa na kufikia Februari 2012, inapatikana katika lugha 19, ikiwa ni pamoja na Kijapani Kikatalani, Kiesperanto, Kiswidi, Kireno, Kicheki, Kiitaliano na Kirusi.
+Labo katika Jumba la makumbusho la watoto la Indianapolis ambayo inatumia kodi ya QRpedia kuelekeza wageni kwenye makala ya Wikipedia"Broad Ripple Park Carousel"
+QRpedia ilianzishwa na Roger Bamkin, aliyekuwa mwenyekiti wa Wikimedia Uingereza, na Terence Edeni ambaye ni mshauri wa mtandao wa simu, na QRpedia ilizinduliwa tarehe 9 Aprili 2011 katika jumba la makumbusho na sanaa la Derby katika tukio la pasi za bure, sehemu ya ushirikiano wa Glam/Derby kati ya jumba la makumbusho na Wikipedia, wakati ambapo zaidi ya 1,200 makala Wikipedia, katika lugha kadhaa, pia ziliundwa. Jina la mradi ni neno la portmanteau, kuchanganya herufi "ya QR" kutoka kodi ya QR (Quick Response)" na "pedia" kutoka "Wikipedia".
+Utekelezaji.
+Ingawa iliumbwa nchini Uingereza, QRpedia inaweza kutumika katika sehemu yoyote ambapo simu ya mtumiaji ina ishara ya data (au na chjombo cha kuskani kinachoweza kukumbuka URL mpaka ishara itakapopatikana) na, hadi Machi mwaka 2012, QRpedia inatumika katika:
+QRpedia pia ina inatumika nje ya taasisi hizo. Kwa mfano, Occupy movement inaitumia katika mabango ya kampeni.
+Tuzo.
+Mnamo Januari 2012, QRpedia ilikuwa kati ya miradi minne (kutoka washiriki 79) ilitangazwa kuwa kampuni bunifu zaidi ya simu nchini Uingereza ya mwaka 2011 na mradi wa "Smart UK", na hivyo kuchaguliwa kushindana katika ya Mobile World Congress huko Barcelona, ​​tarehe 29 Februari 2012. Vigezo vilikuwa "kuwa na ufanisi, rahisi kuelewa na uwezo wa kuwa na athari dunia nzima".

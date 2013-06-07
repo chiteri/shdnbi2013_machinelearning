@@ -1,0 +1,34 @@
+Associative property.
+In mathematics, the associative property'" is a property of some binary operations. In propositional logic, "'associativity'" is a valid rule of replacement for expressions in logical proofs.
+Within an expression containing two or more occurrences in a row of the same associative operator, the order in which the operations are performed does not matter as long as the sequence of the operands is not changed. That is, rearranging the parentheses in such an expression will not change its value. Consider, for instance, the following equations:
+Consider the first equation. Even though the parentheses were rearranged (the left side requires adding 5 and 2 first, then adding 1 to the result, whereas the right side requires adding 2 and 1 first, then 5), the value of the expression was not altered. Since this holds true when performing addition on any real numbers, we say that "addition of real numbers is an associative operation."
+Associativity is not to be confused with commutativity. Commutativity justifies changing the order or sequence of the operands within an expression while associativity does not. For example,
+is an example of associativity because the parentheses were changed (and consequently the order of operations during evaluation) while the operands 5, 2, and 1 appeared in exactly the same order from left to right in the expression. In contrast,
+is an example of commutativity, not associativity, because the operand sequence changed when the 2 and 5 switched places.
+Associative operations are abundant in mathematics; in fact, many algebraic structures (such as semigroups and categories) explicitly require their binary operations to be associative.
+However, many important and interesting operations are non-associative; some examples include subtraction, exponentiation and the vector cross product.
+Definition.
+Formally, a binary operation [Formula 5] on a set "S" is called associative'" if it satisfies the "'associative law'":
+Here, [Formula 5] is used to replace the symbol of the operation, which may be any symbol, and even the absence of symbol like for the multiplication.
+The evaluation order does not affect the value of such expressions, and it can be shown that the same holds for expressions containing "any" number of [Formula 9] operations. Thus, when [Formula 5] is associative, the evaluation order can be left unspecified without causing ambiguity, by omitting the parentheses and writing simply:
+However, it is important to remember that changing the order of operations does not involve or permit moving the operands around within the expression; the sequence of operands is always unchanged.
+The associative law can also be expressed in functional notation thus: [Formula 12].
+Examples.
+Some examples of associative operations include the following.
+Rule of replacement.
+In standard truth-functional propositional logic, "association", or "associativity" are two valid rules of replacement. The rules allow one to move parentheses in logical expressions in logical proofs. The rules are:
+where "[Formula 20]" is a metalogical symbol representing "can be replaced in a proof with."
+Truth functional connectives.
+"Associativity" is a property of some logical connectives of truth-functional propositional logic. The following logical equivalences demonstrate that associativity is a property of particular connectives. The following are truth-functional tautologies.
+Non-associativity.
+A binary operation [Formula 5] on a set "S" that does not satisfy the associative law is called non-associative'". Symbolically,
+For such an operation the order of evaluation "does" matter. For example:
+Also note that infinite sums are not generally associative, for example:
+The study of non-associative structures arises from reasons somewhat different from the mainstream of classical algebra. One area within non-associative algebra that has grown very large is that of Lie algebras. There the associative law is replaced by the Jacobi identity. Lie algebras abstract the essential nature of infinitesimal transformations, and have become ubiquitous in mathematics. They are an example of non-associative algebras.
+There are other specific types of non-associative structures that have been studied in depth. They tend to come from some specific applications. Some of these arise in combinatorial mathematics. Other examples: Quasigroup, Quasifield, Nonassociative ring.
+Notation for non-associative operations.
+In general, parentheses must be used to indicate the order of evaluation if a non-associative operation appears more than once in an expression. However, mathematicians agree on a particular order of evaluation for several common non-associative operations. This is simply a notational convention to avoid parentheses.
+A left-associative'" operation is a non-associative operation that is conventionally evaluated from left to right, i.e.,
+while a "'right-associative operation is conventionally evaluated from right to left:
+Both left-associative and right-associative operations occur. Left-associative operations include the following:
+Non-associative operations for which no conventional evaluation order is defined include the following.

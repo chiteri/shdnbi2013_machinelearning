@@ -1,0 +1,25 @@
+Amoeboid.
+Amoeboids'" are single-celled life-forms characterized by an irregular shape.
+"Amoeboid" and "'amœba'" are often used interchangeably even by biologists, and especially refer to a creature moving by using pseudopodia. Most references to "amoebas" or "amoebae" are to amoeboids in general rather than to the specific genus "Amoeba". The genus "Amoeba" and amoeboids in general both derive their names from the ancient Greek word for change.
+Structure.
+Amoeboids move using pseudopodia, which are bulges of cytoplasm.
+Amoebas breathe using their entire cell membrane that is constantly immersed in water. Excess water can cross into the cytosol. Amoebas have a contractile vacuole to expel excess water.
+Food sources vary in amoeboids. They may consume bacteria or other protists. Some are detritivores and eat dead organic material. They extend a pair of pseudopodia around food. They fuse to make a food vacuole which then fuses with a lysosome to add digestive chemicals. Undigested food is expelled at the cell membrane.
+Amoebas use pseudopodia to move and feed. They are powered by flexibe microfilaments near the membrane. Microfilaments are at least 50% of the cytoskeleton. The other parts are more stiff and are composed of intermediate filaments and microtubules. These are not used in amoeboid movement, but are stiff skeletons on which organelles are supported or can move on.
+The shells of amoebas are often composed of calcium. The proteins or materials are synthesised in the cell and exported just outside the cell membrane.
+Multicellular amoebas: Slime molds.
+Amoebas seem to have connections with two phyla (now defunct) composed of multicellular organisms of the lineage of fungus-like protists, the so-called slime molds. These two defunct phyla were the Myxomycota (i.e., plasmodial slime molds, now classified in the taxon Myxogastria), and Acrasiomycota (i.e. cellular slime molds, now divided into the taxa Acrasida and Dictyosteliida). These two phyla use amoeboid movement in their feeding stage. The former is basically a giant multinucleate amoeba, while the latter lives solitary until food runs out; in which a colony of these functions as a unit. Myxomycete slime molds use amoeboid gametes, as well.
+Diversity.
+They have appeared in a number of different groups. Some cells in multicellular animals may be amoeboid, for instance human white blood cells, which consume pathogens. Many protists also exist as individual amoeboid cells, or take such a form at some point in their life-cycle. The most famous such organism is "Amoeba proteus"; the name amoeba is variously used to describe its close relatives, other organisms similar to it, or the amoeboids in general.
+Classification.
+As amoebas themselves are polyphyletic and subject to some imprecision in definition, the term "amoeboid" does not provide identification of an organism, and is better understood as description of locomotion.
+When used in the broader sense, the term can include many different groups. One source includes 97 different genera. Others include far fewer.
+Older classification.
+In older classification systems, amoeboids, under the taxon name Sarcodina'", had been divided into several morphological categories based on the form and structure of their pseudopods.
+Amoeboids with pseudopods supported by regular arrays of microtubules were called "'actinopods'", whereas those that weren't were called "'rhizopods'", which were further subdivided into lobose, filose, and reticulose amoebae. In contrast to "rhizopods", where most of their morphologies can be mapped to modern classification systems, "actinopods" appear to be extensively polyphyletic. Actinopods are divided into radiolaria and heliozoa (itself a polyphyletic grouping).
+Finally, there was also a strange group of giant marine amoeboids, the xenophyophores, that did not fall into any of these categories.
+Modern classification.
+More modern classifications are based upon cladistics. It has been stated that most amoeboid are now grouped in Amoebozoa or Rhizaria. However, in contexts where "amoeboid" is defined more loosely, there are many amoeboid species that are in the Excavata clade.
+Phylogenetic analyses place these genera into the following groups (not all of these are considered amoeboid (or "amoebas") by all sources):
+Pathogenic interactions with other organisms.
+Some amoeboids can infect other organisms pathogenically (causing disease):
