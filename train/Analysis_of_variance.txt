@@ -1,0 +1,301 @@
+Analysis of variance.
+Analysis of variance'" ("'ANOVA'") is a collection of statistical models used to analyze the differences between group means and their associated procedures (such as "variation" among and between groups), in which the observed variance in a particular variable is partitioned into components attributable to different sources of variation. In its simplest form, ANOVA provides a statistical test of whether or not the means of several groups are all equal, and therefore generalizes "t"-test to more than two groups. Doing multiple two-sample t-tests would result in an increased chance of committing a type I error. For this reason, ANOVAs are useful in comparing (testing) three or more means (groups or variables) for statistical significance.
+Background and terminology.
+ANOVA is a particular form of statistical hypothesis testing heavily used in the analysis of experimental data. A statistical hypothesis test is a method of making decisions using data. A test result (calculated from the null hypothesis and the sample) is called statistically significant if it is deemed unlikely to have occurred by chance, "assuming the truth of the null hypothesis". A statistically significant result (when a probability (p-value) is less than a threshold (significance level)) justifies the rejection of the null hypothesis.
+In the typical application of ANOVA, the null hypothesis is that all groups are simply random samples of the same population. This implies that all treatments have the same effect (perhaps none). Rejecting the null hypothesis implies that different treatments result in altered effects.
+By construction, hypothesis testing limits the rate
+of Type I errors (false positives leading to false scientific claims)
+to a significance level. Experimenters also wish to limit Type II
+errors (false negatives resulting in missed scientific discoveries).
+The Type II error rate is a function of several things including
+sample size (positively correlated with experiment cost), significance
+level (when the standard of proof is high, the chances of overlooking
+a discovery are also high) and effect size (when the effect is
+obvious to the casual observer, Type II error rates are low).
+The terminology of ANOVA is largely from the statistical
+design of experiments. The experimenter adjusts factors and
+measures responses in an attempt to determine an effect. Factors are
+assigned to experimental units by a combination of randomization and
+blocking to ensure the validity of the results. Blinding keeps the
+weighing impartial. Responses show a variability that is partially
+the result of the effect and is partially random error.
+ANOVA is the synthesis of several ideas and it is used for multiple
+purposes. As a consequence, it is difficult to define concisely or precisely.
+"Classical ANOVA for balanced data does three things at once:
+In short, ANOVA is a statistical tool used in several ways to develop and confirm an explanation for the observed data.
+ANOVA "has long enjoyed the status of being the most used'" (some would
+say abused) statistical technique in psychological research."
+ANOVA "is probably the "'most useful'" technique in the field of
+ANOVA is difficult to teach, particularly for complex experiments, with split-plot designs being notorious. In some cases the proper
+application of the method is best determined by problem pattern recognition
+followed by the consultation of a classic authoritative test.
+Design-of-experiments terms.
+(Condensed from the NIST Engineering Statistics handbook: Section 5.7. A
+Classes of models.
+There are three classes of models used in the analysis of variance, and these are outlined here.
+Fixed-effects models (Model 1).
+The fixed-effects model of analysis of variance applies to situations in which the experimenter applies one or more treatments to the subjects of the experiment to see if the response variable values change. This allows the experimenter to estimate the ranges of response variable values that the treatment would generate in the population as a whole.
+Random-effects models (Model 2).
+Random effects models are used when the treatments are not fixed. This occurs when the various factor levels are sampled from a larger population. Because the levels themselves are random variables, some assumptions and the method of contrasting the treatments (a multi-variable generalization of simple differences) differ from the fixed-effects model.
+Mixed-effects models (Model 3).
+A mixed-effects model contains experimental factors of both fixed and random-effects types, with appropriately different interpretations and analysis for the two types.
+Teaching experiments could be performed by a university department
+to find a good introductory textbook, with each text considered a
+treatment. The fixed-effects model would compare a list of candidate
+texts. The random-effects model would determine whether important
+differences exist among a list of randomly selected texts. The
+mixed-effects model would compare the (fixed) incumbent texts to
+Defining fixed and random effects has proven elusive, with competing
+definitions arguably leading toward a linguistic quagmire.
+Assumptions of ANOVA.
+The analysis of variance has been studied from several approaches, the most common of which uses a linear model that relates the response to the treatments and blocks. Even when the statistical model is nonlinear, it can be approximated by a linear model for which an analysis of variance may be appropriate.
+Textbook analysis using a normal distribution.
+The analysis of variance can be presented in terms of a linear model, which makes the following assumptions about the probability distribution of the responses:
+The separate assumptions of the textbook model imply that the errors are independently, identically, and normally distributed for fixed effects models, that is, that the errors ([Formula 1]'s) are independent and
+Randomization-based analysis.
+In a randomized controlled experiment, the treatments are randomly assigned to experimental units, following the experimental protocol. This randomization is objective and declared before the experiment is carried out. The objective random-assignment is used to test the significance of the null hypothesis, following the ideas of C. S. Peirce and Ronald A. Fisher. This design-based analysis was discussed and developed by Francis J. Anscombe at Rothamsted Experimental Station and by Oscar Kempthorne at Iowa State University. Kempthorne and his students make an assumption of "unit treatment additivity", which is discussed in the books of Kempthorne and David R. Cox.
+Unit-treatment additivity.
+In its simplest form, the assumption of unit-treatment additivity states that the observed response [Formula 3] from experimental unit [Formula 4] when receiving treatment [Formula 5] can be written as the sum of the unit's response [Formula 6] and the treatment-effect [Formula 7], that is
+The assumption of unit-treatment addivity implies that, for every treatment [Formula 5], the [Formula 5]th treatment have exactly the same effect [Formula 11] on every experiment unit.
+The assumption of unit treatment additivity usually cannot be directly falsified, according to Cox and Kempthorne. However, many "consequences" of treatment-unit additivity can be falsified. For a randomized experiment, the assumption of unit-treatment additivity "implies" that the variance is constant for all treatments. Therefore, by contraposition, a necessary condition for unit-treatment additivity is that the variance is constant.
+The use of unit treatment additivity and randomization is similar to the design-based inference that is standard in finite-population survey sampling.
+Derived linear model.
+Kempthorne uses the randomization-distribution and the assumption of "unit treatment additivity" to produce a "derived linear model", very similar to the textbook model discussed previously. The test statistics of this derived linear model are closely approximated by the test statistics of an appropriate normal linear model, according to approximation theorems and simulation studies. However, there are differences. For example, the randomization-based analysis results in a small but (strictly) negative correlation between the observations. In the randomization-based analysis, there is "no assumption" of a "normal" distribution and certainly "no assumption" of "independence". On the contrary, "the observations are dependent"!
+The randomization-based analysis has the disadvantage that its exposition involves tedious algebra and extensive time. Since the randomization-based analysis is complicated and is closely approximated by the approach using a normal linear model, most teachers emphasize the normal linear model approach. Few statisticians object to model-based analysis of balanced randomized experiments.
+Statistical models for observational data.
+However, when applied to data from non-randomized experiments or observational studies, model-based analysis lacks the warrant of randomization. For observational data, the derivation of confidence intervals must use "subjective" models, as emphasized by Ronald A. Fisher and his followers. In practice, the estimates of treatment-effects from observational studies generally are often inconsistent. In practice, "statistical models" and observational data are useful for suggesting hypotheses that should be treated very cautiously by the public.
+Summary of assumptions.
+The normal-model based ANOVA analysis assumes the independence, normality and
+homogeneity of the variances of the residuals. The
+randomization-based analysis assumes only the homogeneity of the
+variances of the residuals (as a consequence of unit-treatment
+additivity) and uses the randomization procedure of the experiment.
+Both these analyses require homoscedasticity, as an assumption for the normal-model analysis and as a consequence of randomization and additivity for the randomization-based analysis.
+change variances rather than means (called dispersion effects) have
+been successfully conducted using ANOVA. There are
+"no" necessary assumptions for ANOVA in its full generality, but the
+F-test used for ANOVA hypothesis testing has assumptions and practical
+limitations which are of continuing interest.
+Problems which do not satisfy the assumptions of ANOVA can often be transformed to satisfy the assumptions.
+The property of unit-treatment additivity is not invariant under a "change of scale", so statisticians often use transformations to achieve unit-treatment additivity. If the response variable is expected to follow a parametric family of probability distributions, then the statistician may specify (in the protocol for the experiment or observational study) that the responses be transformed to stabilize the variance. Also, a statistician may specify that logarithmic transforms be applied to the responses, which are believed to follow a multiplicative model.
+According to Cauchy's functional equation theorem, the logarithm is the only continuous transformation that transforms real multiplication to addition.
+Characteristics of ANOVA.
+ANOVA is used in the analysis of comparative experiments, those in
+which only the difference in outcomes is of interest. The statistical
+significance of the experiment is determined by a ratio of two
+variances. This ratio is independent of several possible alterations
+to the experimental observations: Adding a constant to all
+observations does not alter significance. Multiplying all
+observations by a constant does not alter significance. So ANOVA
+statistical significance results are independent of constant bias and
+scaling errors as well as the units used in expressing observations.
+In the era of mechanical calculation it was common to
+subtract a constant from all observations (when equivalent to
+dropping leading digits) to simplify data entry. This is an example of data
+Logic of ANOVA.
+The calculations of ANOVA can be characterized as computing a number
+of means and variances, dividing two variances and comparing the ratio
+to a handbook value to determine statistical significance. Calculating
+a treatment effect is then trivial, "the effect of any treatment is
+estimated by taking the difference between the mean of the
+observations which receive the treatment and the general mean."
+Partitioning of the sum of squares.
+ANOVA uses traditional standardized terminology. The definitional
+divisor is called the degrees of freedom (DF), the summation is called
+the sum of squares (SS), the result is called the mean square (MS) and
+the squared terms are deviations from the sample mean. ANOVA
+estimates 3 sample variances: a total variance based on all the
+observation deviations from the grand mean, an error variance based on
+all the observation deviations from their appropriate
+treatment means and a treatment variance. The treatment variance is
+based on the deviations of treatment means from the grand mean, the
+result being multiplied by the number of observations in each
+treatment to account for the difference between the variance of
+observations and the variance of means. If the null hypothesis is
+true, all three variance estimates are equal (within sampling error).
+The fundamental technique is a partitioning of the total sum of squares "SS" into components related to the effects used in the model. For example, the model for a simplified ANOVA with one type of treatment at different levels.
+The number of degrees of freedom "DF" can be partitioned in a similar way: one of these components (that for error) specifies a chi-squared distribution which describes the associated sum of squares, while the same is true for "treatments" if there is no treatment effect.
+See also Lack-of-fit sum of squares.
+The F-test.
+The F-test is used for comparisons of the components of the total deviation. For example, in one-way, or single-factor ANOVA, statistical significance is tested for by comparing the F test statistic
+where "MS" is mean square, [Formula 17] = number of treatments and
+[Formula 18] = total number of cases
+to the F-distribution with [Formula 19], [Formula 20] degrees of freedom. Using the F-distribution is a natural candidate because the test statistic is the ratio of two scaled sums of squares each of which follows a scaled chi-squared distribution.
+The expected value of F is [Formula 21] (where n is the treatment sample size)
+which is 1 for no treatment effect. As values of F increase above 1
+the evidence is increasingly inconsistent with the null hypothesis.
+Two apparent experimental methods of increasing F are increasing the
+sample size and reducing the error variance by tight experimental
+The textbook method of concluding the hypothesis test is to compare
+the observed value of F with the critical value of F determined from
+tables. The critical value of F is a function of the numerator
+degrees of freedom, the denominator degrees of freedom and the
+significance level (α). If F ≥ FCritical (Numerator DF, Denominator DF, α)
+The computer method calculates the probability (p-value) of a value of
+F greater than or equal to the observed value. The null hypothesis is
+rejected if this probability is less than or equal to the significance
+level (α). The two methods produce the same result.
+The ANOVA F-test is known to be nearly optimal in the sense of
+minimizing false negative errors for a fixed rate of false positive
+errors (maximizing power for a fixed significance level). To test the hypothesis that all treatments have exactly the same effect, the F-test's p-values closely approximate the permutation test's p-values: The approximation is particularly close when the design is balanced. Such permutation tests characterize tests with maximum power against all alternative hypotheses, as observed by Rosenbaum. The ANOVA F–test (of the null-hypothesis that all treatments have exactly the same effect) is recommended as a practical test, because of its robustness against many alternative distributions.
+Extended logic.
+ANOVA consists of separable parts; partitioning sources of variance
+and hypothesis testing can be used individually. ANOVA is used to
+support other statistical tools. Regression is first used to fit more
+complex models to data, then ANOVA is used to compare models with the
+objective of selecting simple(r) models that adequately describe the
+data. "Such models could be fit without any reference to ANOVA, but
+ANOVA tools could then be used to make some sense of the fitted models,
+and to test hypotheses about batches of coefficients."
+"[W]e think of the analysis of variance as a way of understanding and structuring
+multilevel models—not as an alternative to regression but as a tool
+for summarizing complex high-dimensional inferences ..."
+ANOVA for a single factor.
+The simplest experiment suitable for ANOVA analysis is the completely
+randomized experiment with a single factor. More complex experiments
+with a single factor involve constraints on randomization and include
+completely randomized blocks and Latin squares (and variants:
+Graeco-Latin squares, etc.). The more complex experiments share many
+of the complexities of multiple factors. A relatively complete
+discussion of the analysis (models, data summaries, ANOVA table) of
+ANOVA for multiple factors.
+ANOVA generalizes to the study of the effects of multiple factors.
+When the experiment includes observations at all combinations of
+levels of each factor, it is termed factorial.
+are more efficient than a series of single factor experiments and the
+efficiency grows as the number of factors increases. Consequently, factorial designs are heavily used.
+The use of ANOVA to study the effects of multiple factors has a
+complication. In a 3-way ANOVA with factors x, y and z, the ANOVA
+model includes terms for the main effects (x, y, z) and
+terms for interactions (xy, xz, yz, xyz).
+All terms require hypothesis tests. The proliferation of interaction
+that some hypothesis test will produce a false positive by chance.
+Fortunately, experience says that high order interactions are rare.
+The ability to detect interactions is a major advantage of multiple
+factor ANOVA. Testing one factor at a time hides interactions, but
+Caution is advised when encountering interactions; Test
+interaction terms first and expand the analysis beyond ANOVA if
+interactions are found. Texts vary in their recommendations regarding
+the continuation of the ANOVA procedure after encountering an
+interaction. Interactions complicate the interpretation of
+experimental data. Neither the calculations of significance nor the
+estimated treatment effects can be taken at face value. "A
+significant interaction will often mask the significance of main
+to enhance understanding. Regression is often useful. A lengthy
+discussion of interactions is available in Cox (1958). Some
+interactions can be removed (by transformations) while others cannot.
+A variety of techniques are used with multiple factor ANOVA to reduce
+expense. One technique used in factorial designs is to minimize
+replication (possibly no replication with support of
+groups when effects are found to be
+statistically (or practically) insignificant. An experiment with many
+insignificant factors may collapse into one with a few factors
+Worked numeric examples.
+Several fully worked numerical examples are available. A
+simple case uses one-way (a single
+factor) analysis. A more complex case
+Associated analysis.
+Some analysis is required in support of the "design" of the
+experiment while other analysis is performed after changes in the
+factors are formally found to produce statistically significant
+changes in the responses. Because experimentation is iterative, the
+results of one experiment alter plans for following experiments.
+The number of experimental units.
+In the design of an experiment, the number of experimental units is planned to satisfy the goals of the experiment. Experimentation is often sequential.
+Early experiments are often designed to provide mean-unbiased estimates of treatment effects and of experimental error. Later experiments are often designed to test a hypothesis that a treatment effect has an important magnitude; in this case, the number of experimental units is chosen so that the experiment is within budget and has adequate power, among other goals.
+Reporting sample size analysis is generally required in psychology.
+"Provide information on sample size and the process that led to sample
+is written in the experimental protocol before the experiment is conducted, is examined in grant applications and administrative review boards.
+Besides the power analysis, there are less formal methods for selecting the number of experimental units. These include graphical methods based on limiting
+the probability of false negative errors, graphical methods based on
+an expected variation increase (above the residuals) and methods based
+on achieving a desired confident interval.
+Power analysis.
+Power analysis is often applied in the context of ANOVA in order to assess the probability of successfully rejecting the null hypothesis if we assume a certain ANOVA design, effect size in the population, sample size and significance level. Power analysis can assist in study design by determining what sample size would be required in order to have a reasonable chance of rejecting the null hypothesis when the alternative hypothesis is true.
+Effect size.
+Several standardized measures of effect gauge the strength of the association between a predictor (or set of predictors) and the dependent variable. Effect-size estimates facilitate the comparison of findings in studies and across disciplines. A non-standardized measure of effect size with meaningful units may
+Eta-squared describes the ratio of variance explained in the dependent variable by a predictor while controlling for other predictors. Eta-squared is a biased estimator of the variance explained by the model in the population (it estimates only the effect size in the sample). On average it overestimates the variance explained in the population. As the sample size gets larger the amount of bias gets smaller,
+Cohen (1992) suggests effect sizes for various indexes, including ƒ (where 0.1 is a small effect, 0.25 is a medium effect and 0.4 is a large effect). He also offers a conversion table (see Cohen, 1988, p. 283) for eta squared (η2) where 0.0099 constitutes a small effect, 0.0588 a medium effect and 0.1379 a large effect.
+Followup analysis.
+It is always appropriate to carefully consider outliers. They have a
+disproportionate impact on statistical conclusions and are often the
+Model confirmation.
+It is prudent to verify that the assumptions of ANOVA have been met.
+Residuals are examined or analyzed to confirm homoscedasticity
+and gross normality. Residuals should have the appearance of (zero mean normal distribution)
+noise when plotted as a function of anything including time and
+modeled data values. Trends hint at interactions among factors or
+among observations. One rule of thumb: "If the largest standard deviation
+is less than twice the smallest standard deviation, we can use methods
+based on the assumption of equal standard deviations and our results
+Follow-up tests.
+A statistically significant effect in ANOVA is often followed up with one or more different follow-up tests. This can be done in order to assess which groups are different from which other groups or to test various other focused hypotheses.
+Follow-up tests are often distinguished in terms of whether they are planned (a priori) or post hoc. Planned tests are determined before looking at the data and post hoc tests are performed after looking at the data.
+Often one of the "treatments" is none, so the treatment group can act
+as a control. Dunnett's test (a modification of the t-test)
+tests whether each of the other treatment groups has the same
+Post hoc tests such as Tukey's range test most commonly compare every group mean with every other group mean and typically incorporate some method of controlling for Type I errors.
+Comparisons, which are most commonly planned, can be either simple or compound. Simple comparisons compare one group mean with one other group mean. Compound comparisons typically compare two sets of groups means where one set has two or more groups (e.g., compare average group means of group A, B and C with group D). Comparisons can also look at tests of trend, such as linear and quadratic relationships, when the independent variable involves ordered levels.
+Following ANOVA with pair-wise multiple-comparison tests has been
+criticized on several grounds. There are many such tests (10 in one table) and recommendations
+regarding their use are vague or conflicting.
+Study designs and ANOVAs.
+There are several types of ANOVA. Many statisticians base ANOVA on the design of the experiment, especially on the protocol that specifies the random assignment of treatments to subjects; the protocol's description of the assignment mechanism should include a specification of the structure of the treatments and of any blocking. It is also common to apply ANOVA to observational data using an appropriate statistical model.
+Some popular designs use the following types of ANOVA:
+ANOVA cautions.
+Balanced experiments (those with an equal sample size for each
+treatment) are relatively easy to interpret; Unbalanced
+experiments offer more complexity. For single factor (one way) ANOVA,
+the adjustment for unbalanced data is easy, but the unbalanced
+analysis lacks both robustness and power. For more complex designs the
+lack of balance leads to further complications. "The orthogonality
+property of main effects and interactions present in balanced data
+does not carry over to the unbalanced case. This
+means that the usual analysis of variance techniques do not apply.
+Consequently, the analysis of unbalanced factorials is much more
+difficult than that for balanced designs." In the
+general case, "The analysis of variance can also be applied to
+unbalanced data, but then the sums of squares, mean squares, and
+F-ratios will depend on the order in which the sources of variation
+are considered." The simplest techniques for
+handling unbalanced data restore balance by either throwing out data
+or by synthesizing missing data. More complex techniques use
+ANOVA is (in part) a significance test. The American Psychological
+Association holds the view that simply reporting significance is
+insufficient and that reporting confidence bounds is preferred.
+While ANOVA is conservative (in maintaining a significance level)
+against multiple comparisons in one dimension, it is not conservative
+Generalizations.
+ANOVA is considered to be a special case of linear regression
+which in turn is a special case of the general linear model. All consider the observations to be the sum of a model (fit) and a residual (error) to be minimized.
+The Kruskal–Wallis test and the Friedman test are nonparametric tests, which do not rely on an assumption of normality.
+History.
+While the analysis of variance reached fruition in the 20th century,
+antecedents extend centuries into the past according to Stigler. These include hypothesis testing, the partitioning of sums of
+squares, experimental techniques and the additive model. Laplace was
+performing hypothesis testing in the 1770s.
+The development of least-squares methods by Laplace and Gauss circa
+1800 provided an improved method of combining observations (over the
+existing practices of astronomy and geodesy). It also initiated much
+study of the contributions to sums of squares. Laplace soon knew how
+to estimate a variance from a residual (rather than a total) sum of
+squares. By 1827 Laplace was using least
+squares methods to address ANOVA problems regarding measurements of
+Before 1800 astronomers had isolated observational errors resulting
+from reaction times (the "personal equation") and had developed
+methods of reducing the errors. The
+experimental methods used in the study of the personal equation were
+later accepted by the emerging field of psychology which developed strong
+(full factorial) experimental methods to which randomization and
+blinding were soon added. An eloquent
+non-mathematical explanation of the additive effects model was
+Sir Ronald Fisher introduced the term "variance" and proposed a formal analysis of variance in a 1918 article "The Correlation Between Relatives on the Supposition of Mendelian Inheritance". His first application of the analysis of variance was published in 1921. Analysis of variance became widely known after being included in Fisher's 1925 book "Statistical Methods for Research Workers".
+Randomization models were developed by several researchers. The first was
+published in Polish by Neyman in 1923.
+One of the attributes of ANOVA which ensured its early popularity was
+computational elegance. The structure of the additive model allows
+solution for the additive coefficients by simple algebra rather than
+by matrix calculations. In the era of mechanical calculators this
+simplicity was critical. The determination of statistical
+significance also required access to tables of the F function which
+were supplied by early statistics texts.

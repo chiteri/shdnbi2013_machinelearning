@@ -1,0 +1,14 @@
+Utengenezwaji wa bodi ya sakiti.
+Bodi iliyochapishwa ni kiunganishi kikubwa baina ya sakiti moja na nyingine kwa muunganiko wa wire zinazosambaza umeme au taarifa za electroniki. Bodi hii ni ya muhimu sana na hutengenezwa kwa wingi na viwanda ila hivi sasa utengenezwaji wake umerahisishwa na kufanya upatikanaji wake kuwa rahisi zaidi.
+Mahitaji.
+Programu maalum ya kutengeneza muonekano wa sakiti yako ikiwa imekamilika kwa muonekano wa picha kabla ya kutengenezwa. Pia utahitaji pasi ya umeme ya kawaida inayotumika kwa matumizi ya kawaida ya nyumbani. Mashine ya kuchapisha nakala kutoka kwenye kompyuta ama (Printa), machine ya kutobolea bodi, bakuli la maji, katasi maalum itakayotumika kuhamisha mchoro na mwisho kabisa bodi itakayotumika kutengezea mchoro
+Hatua za kutengeneza.
+1.Kwanza kabisa andaa mchoro wako kwenye kompyuta yako kwa umakini na hakikiisha ndicho unachotaka kutengenezea bodi ya kitu unachotaka kukitengenza.
+2.Kisha chukua karatasi maalum utakayoitumia kuhamishia mchoro wakko wa sakiti kwa kutengezea bodi ya sakiti iliyochapishwa
+3.Kisha toa nakala ya mchoro wako kupitia karatasi maalum iliyoelezewa kwenye hatua iliiyopita(hatua ya pili) kwa kutumia mashine maalum ya kutoa nakala toka kwenye kompyuta.
+4.Bandika karatasi yako kwenye bodi unayotaka kutengenezea sakiti iliiyochapishwa na baada ya hapo piga pasi bodi yako ikiwa pamoja na karatasi haalu iliyochapiswa mchoro wa sakiti kwa moto wa wastanii ilikuepuka kuunguza.
+5.Mara baada ya hapo loweka bodi yako kwenye maji ya baridi ya wastani il ikuweza kulainisha karatasi iliyobandikwa kurahisisha utoaji wake. Mara inapokuwa tayari toa karasi uliyoibandika kwenye ubao wako kisha safisha ubao wako.
+6.Mwisho chukua ubao wako na kuuweka kwenye mashine ya kutobolea na kutoboa matundu sahihi katika ubao wako.
+7.Mpaka hapo ubao wako wa saikiti iliyochapishwa utakuwa tayari kwa matumizi ya kutengenezea kifaa chako cha elektroniki.
+Maelezo ya ziada.
+Ikiwa unahitaji kufahamu zaidi juu ya wavuti zinazoweza kukupa fursa ya kufahamu namna ya kutengeneza ubao wa sakiti iliyochapishwa waweza kutembelea wavuti zifuatazo

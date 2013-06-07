@@ -1,0 +1,27 @@
+Ampere.
+The ampere'" (SI unit symbol: A; SI dimension symbol: I), often shortened to "'Amp'", is the SI unit of electric current (quantity symbol: "I","i") and is one of the seven SI base units. It is named after André-Marie Ampère (1775–1836), French mathematician and physicist, considered the father of electrodynamics.
+In practical terms, the ampere is a measure of the amount of electric charge passing a point in an electric circuit per unit time with 6.241 × 1018 electrons, or one coulomb per second constituting one ampere.
+The practical definition may lead to confusion with the definition of a coulomb (i.e., 1 ampere-second), but in practical terms this means that measures of a constant current (e.g., the nominal flow of charge per second through a simple circuit) will be defined in amperes (e.g., "a 20 mA circuit") and the flow of charge through a circuit over a period of time will be defined in coulombs (e.g., "a variable-current circuit that flows a total of 10 coulombs over 5 seconds"). In this way, amperes can be viewed as a flow rate, i.e. number of particles (charged) transiting per unit time, and coulombs simply as the number of particles.
+Definition.
+Illustration of the definition of the ampere unit
+Ampère's force law states that there is an attractive or repulsive force between two parallel wires carrying an electric current. This force is used in the formal definition of the ampere, which states that it is "the constant current that will produce an attractive force of 2 × 10–7 newton per metre of length between two straight, parallel conductors of infinite length and negligible circular cross section placed one metre apart in a vacuum".
+The SI unit of charge, the coulomb, "is the quantity of electricity carried in 1 second by a current of 1 ampere". Conversely, a current of one ampere is one coulomb of charge going past a given point per second:
+In general, charge "Q" is determined by steady current "I" flowing for a time "t" as "Q" = "It".
+History.
+The ampere was originally defined as one tenth of the CGS system electromagnetic unit of current (now known as the abampere), the amount of current that generates a force of two dynes per centimetre of length between two wires one centimetre apart. The size of the unit was chosen so that the units derived from it in the MKSA system would be conveniently sized.
+The "international ampere" was an early realization of the ampere, defined as the current that would deposit grams of silver per second from a silver nitrate solution. Later, more accurate measurements revealed that this current is 0.99985 A.
+Realization.
+The standard ampere is most accurately realized using a watt balance, but is in practice maintained via Ohm's Law from the units of electromotive force and resistance, the volt and the ohm, since the latter two can be tied to physical phenomena that are relatively easy to reproduce, the Josephson junction and the quantum Hall effect, respectively.
+At present, techniques to establish the realization of an ampere have a relative uncertainty of approximately a few parts in 107, and involve realizations of the watt, the ohm and the volt.
+Proposed future definition.
+Rather than a definition in terms of the force between two current-carrying wires, it has been proposed to define the ampere in terms of the rate of flow of elementary charges. Since a coulomb is approximately equal to elementary charges (such as electrons), one ampere is approximately equivalent to elementary charges moving past a boundary in one second, or the reciprocal of the value of the elementary charges in coulombs. The proposed change would define 1 A as being the current in the direction of flow of a particular number of elementary charges per second. In 2005, the International Committee for Weights and Measures (CIPM) agreed to study the proposed change. The new definition is expected to be formally proposed at the 25th General Conference on Weights and Measures (CGPM) in 2014.
+Everyday examples.
+The current drawn by typical constant-voltage energy distribution systems is usually dictated by the power (watts) consumed by the system and the operating voltage. For this reason the examples given below are grouped by voltage level.
+Motor vehicles – 12 V DC.
+A typical motor vehicle has a 12 V battery. The various accessories that are powered by the battery might include:
+North American domestic supply – 120 V AC.
+Most United States, Canada and Mexico domestic power suppliers run at 120 V.
+Household circuit breakers typically provide a maximum of 15 A or 20 A of current to a given set of outlets.
+European domestic supply – 230 V AC.
+Most European domestic power supplies run at 230 V, so the current drawn by a particular European appliance (in Europe) will be less than for an equivalent North American appliance.
+The current drawn by a number of typical appliances are:

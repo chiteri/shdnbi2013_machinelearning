@@ -1,0 +1,6 @@
+RAM.
+RAM'" ni kifupi cha Kiingereza "'Random Access Memory" au kumbukumbu isiyo na mpangilio maalumu. Ni aina ya kumbukumbu kwenye kompyuta.
+Hapa programu za kompyuta zina nafasi za kupakua data za kazi zao kwa muda. Programu za kisasa zahitaji nafasi kubwa ya kuhifadhi makadirio kwa muda fulani zikiendelea kukamilisha shughuli. Kadi za RAM zatoa nafasi kupakua data mahali popote bila kujali mpangilio kwanza. Hii huharakisha kazi ya programu.
+Sehemu ya RAM inaweza kuwa sehemu kwenye bao kuu lakini kwa kawaida hupatikana kwa kadi ndogo zinazowekwa kwenye bao kuu. Mara nyingi mashine za kompyuta huwa na nafasi ya kuongeza RAM au kubadilisha kadi zake kwa kadi yenye nafasi ya kumbukumbu kubwa zaidi. Kumbukumbu kubwa huwezesha komyuta kutekeleza shughuli zake haraka zaidi.
+Kila safari mashine yazimikwa kumbukumbu yote ya RAM yapotea.
+RAM isichanganywe na ROM ambayo ni aina tofauti ya kumbukumbu isiyopotea.

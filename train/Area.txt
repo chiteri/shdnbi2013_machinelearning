@@ -1,0 +1,60 @@
+Area.
+The combined area of these three shapes is 15.56 squares.
+Area'" is a quantity that expresses the extent of a two-dimensional surface or shape, or planar lamina, in the plane. Area can be understood as the amount of material with a given thickness that would be necessary to fashion a model of the shape, or the amount of paint necessary to cover the surface with a single coat. It is the two-dimensional analog of the length of a curve (a one-dimensional concept) or the volume of a solid (a three-dimensional concept).
+The area of a shape can be measured by comparing the shape to squares of a fixed size. In the International System of Units (SI), the standard unit of area is the square metre (written as m2), which is the area of a square whose sides are one metre long. A shape with an area of three square metres would have the same area as three such squares. In mathematics, the unit square is defined to have area one, and the area of any other shape or surface is a dimensionless real number.
+There are several well-known formulas for the areas of simple shapes such as triangles, rectangles, and circles. Using these formulas, the area of any polygon can be found by dividing the polygon into triangles. For shapes with curved boundary, calculus is usually required to compute the area. Indeed, the problem of determining the area of plane figures was a major motivation for the historical development of calculus.
+For a solid shape such as a sphere, cone, or cylinder, the area of its boundary surface is called the surface area. Formulas for the surface areas of simple shapes were computed by the ancient Greeks, but computing the surface area of a more complicated shape usually requires multivariable calculus.
+Area plays an important role in modern mathematics. In addition to its obvious importance in geometry and calculus, area is related to the definition of determinants in linear algebra, and is a basic property of surfaces in differential geometry. In analysis, the area of a subset of the plane is defined using Lebesgue measure, though not every subset is measurable. In general, area in higher mathematics is seen as a special case of volume for two-dimensional regions.
+Area can be defined through the use of axioms, defining it as a function of a collection of certain plane figures to the set of real numbers. It can be proved that such a function exists.
+Formal definition.
+An approach to defining what is meant by "area" is through axioms. "Area" can be defined as a function from a collection M of special kind of plane figures (termed measurable sets) to the set of real numbers which satisfies the following properties:
+It can be proved that such an area function actually exists.
+Units.
+Every unit of length has a corresponding unit of area, namely the area of a square with the given side length. Thus areas can be measured in square metres (m2), square centimetres (cm2), square millimetres (mm2), square kilometres (km2), square feet (ft2), square yards (yd2), square miles (mi2), and so forth. Algebraically, these units can be thought of as the squares of the corresponding length units.
+The SI unit of area is the square metre, which is considered an SI derived unit.
+Conversions.
+The conversion between two square units is the square of the conversion between the corresponding length units. For example, since
+the relationship between square feet and square inches is
+where 144 = 122 = 12 × 12. Similarly:
+Other units.
+There are several other common units for area. The "Are" was the original unit of area in the metric system, with;
+Though the are has fallen out of use, the hectare is still commonly used to measure land:
+Other uncommon metric units of area include the tetrad, the hectad, and the myriad.
+The acre is also commonly used to measure land areas, where
+An acre is approximately 40% of a hectare.
+On the atomic scale, area is measured in units of barns, such that:
+The barn is commonly used in describing the cross sectional area of interaction in nuclear physics.
+Rectangles.
+The most basic area formula is the formula for the area of a rectangle. Given a rectangle with length and, the formula for the area is:
+That is, the area of the rectangle is the length multiplied by the width. As a special case, as [Formula 1] in the case of a square, the area of a square with side length is given by the formula:
+The formula for the area of a rectangle follows directly from the basic properties of area, and is sometimes taken as a definition or axiom. On the other hand, if geometry is developed before arithmetic, this formula can be used to define multiplication of real numbers.
+Dissection formulae.
+Most other simple formulae for area follow from the method of dissection.
+This involves cutting a shape into pieces, whose areas must sum to the area of the original shape.
+For an example, any parallelogram can be subdivided into a trapezoid and a right triangle, as shown in figure to the left. If the triangle is moved to the other side of the trapezoid, then the resulting figure is a rectangle. It follows that the area of the parallelogram is the same as the area of the rectangle:
+However, the same parallelogram can also be cut along a diagonal into two congruent triangles, as shown in the figure to the right. It follows that the area of each triangle is half the area of the parallelogram:
+Similar arguments can be used to find area formulae for the trapezoid and the rhombus, as well as more complicated polygons.
+Circles.
+The formula for the area of a circle (more properly called area of a disk) is based on a similar method. Given a circle of radius, it is possible to partition the circle into sectors, as shown in the figure to the right. Each sector is approximately triangular in shape, and the sectors can be rearranged to form and approximate parallelogram. The height of this parallelogram is, and the width is half the circumference of the circle, or. Thus, the total area of the circle is, or:
+Though the dissection used in this formula is only approximate, the error becomes smaller and smaller as the circle is partitioned into more and more sectors. The limit of the areas of the approximate parallelograms is exactly, which is the area of the circle.
+This argument is actually a simple application of the ideas of calculus. In ancient times, the method of exhaustion was used in a similar way to find the area of the circle, and this method is now recognized as a precursor to integral calculus. Using modern methods, the area of a circle can be computed using a definite integral:
+Ellipses.
+The formula for the area of an ellipse is related to the formula of a circle; for an ellipse with semi-major and semi-minor axes and the formula is:
+Surface area.
+Most basic formulae for surface area can be obtained by cutting surfaces and flattening them out. For example, if the side surface of a cylinder (or any prism) is cut lengthwise, the surface can be flattened out into a rectangle. Similarly, if a cut is made along the side of a cone, the side surface can be flattened out into a sector of a circle, and the resulting area computed.
+The formula for the surface area of a sphere is more difficult to derive: because the surface of a sphere has nonzero Gaussian curvature, it cannot be flattened out. The formula for the surface area of a sphere was first obtained by Archimedes in his work "On the Sphere and Cylinder". The formula is:
+where is the radius of the sphere. As with the formula for the area of a circle, any derivation of this formula inherently uses methods similar to calculus.
+Area in calculus.
+Integration can be thought of as measuring the area under a curve, defined by "f"("x"), between two points (here "a" and "b").
+The area between two graphs can be evaluated by calculating the difference between the integrals of the two functions
+(see Green's theorem) or the "z"-component of
+General formula.
+The general formula for the surface area of the graph of a continuously differentiable function [Formula 31] where [Formula 32] and [Formula 33] is a region in the xy-plane with the smooth boundary:
+Even more general formula for the area of the graph of a parametric surface in the vector form [Formula 35] where [Formula 36] is a continuously differentiable vector function of [Formula 37]:
+List of formulae.
+There are formulae for many different regular and irregular polygons, and those additional to the ones above are listed here.
+The above calculations show how to find the area of many common shapes.
+The areas of irregular polygons can be calculated using the "Surveyor's formula".
+Optimization.
+Given a wire contour, the surface of least area spanning ("filling") it is a minimal surface. Familiar examples include soap bubbles.
+The question of the filling area of the Riemannian circle remains open.

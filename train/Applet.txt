@@ -1,0 +1,22 @@
+Applet.
+In computing, an applet'" is any small application that performs one specific task that runs within the scope of a larger program, often as a plug-in. An applet typically also refers to Java applets, i.e., programs written in the Java programming language that are included in a web page. The word "Applet" was first used in 1990 in PC Magazine.
+Applet as a standalone application.
+Provided that an applet is hosted by an operating system, it can function as any other normal software application but performs only a small set of tasks. Examples of applications often classified as applets are all of the accessories bundled in Microsoft Windows (such as Windows Notepad or Microsoft Paint). Applets are not full-featured application programs, and are intended to be easily accessible.
+Applet as an extension of other software.
+In some cases, an applet does not run independently. These applets must run either in a container provided by a host program, through a plugin, or a variety of other applications including mobile devices that support the applet programming model.
+Web-based Applets.
+Applets are used to provide interactive features to web applications that cannot be provided by HTML alone. They can capture mouse input and also have controls like buttons or check boxes. In response to the user action an applet can change the provided graphic content. This makes applets well suitable for demonstration, visualization, and teaching. There are online applet collections for studying various subjects, from physics to heart physiology. Applets are also used to create online game collections that allow players to compete against live opponents in real-time.
+An applet can also be a text area only, providing, for instance, a cross platform command-line interface to some remote system. If needed, an applet can leave the dedicated area and run as a separate window. However, applets have very little control over web page content outside the applet dedicated area, so they are less useful for improving the site appearance in general (while applets like news tickers or WYSIWYG editors are also known). Applets can also play media in formats that are not natively supported by the browser
+HTML pages may embed parameters that are passed to the applet. Hence the same applet may appear differently depending on the parameters that were passed.
+Applet vs. Subroutine.
+A larger application distinguishes its applets through several features:
+Java Applet.
+Java Applets can provide web applications with interactive features that cannot be provided by HTML. Since Java's bytecode is platform-independent, Java applets can be executed by browsers running under many platforms, including Windows, Unix, Mac OS, and Linux. When a Java technology-enabled web browser processes a page that contains an applet, the applet's code is transferred to the client's system and executed by the browser's Java Virtual Machine (JVM). An HTML page references an applet either via the deprecated <APPLET> tag or via its replacement, the <OBJECT> tag.
+Security.
+Recent developments in the coding of applications including mobile and embedded systems have led to the awareness of the security of applets.
+Open Platform Applets.
+Applets in an open platform environment should provide secure interactions between different applications. A compositional approach can be used to provide security for open platform applets. Advanced compositional verification methods have been developed for secure applet interactions.
+Java Applets.
+A Java applet contains different security models: unsigned Java applet security, signed Java applet security, and self signed Java applet security.
+Web-based Applets.
+In an applet-enabled web browser, many methods can be used to provide applet security for malicious applets. A malicious applet can infect a computer system in many ways, including denial of service, invasion of privacy, and annoyance. A typical solution for malicious applets is to make the web browser to monitor applets' activities. This will result in a web browser that will enable the manual or automatic stopping of malicious applets. To illustrate this method, AppletGuard was used to observe and control any applet in a browser successfully.

@@ -1,0 +1,4 @@
+IRC.
+Internet Relay Chat (IRC) ni aina ya mawasiliano ya papo kwa hapo kupitia mtandao wa Intaneti. Teknolojia hii imeundwa hususan kwa ajili ya mawasiliano ya watu wengi kwa wakati mmoja, lakini pia mawasiliano ya mtu mmoja kwa mmoja yanawezekana.
+Teknolojia hii ilitengenezwa na Jarkko Oikarinen Agosti 1998 ili kuchukua nafasi ya teknolojia nyingine kama hii iliyokuwa ikiitwa MUT huko Ufini.
+IRC ilipata umaarufu pale ilipotumika kuripoti jaribio la kuipindua serikali ya Urusi mwaka 1991. Teknolojia hii ilitumiwa pia kuripoti uvamizi wa Kuwait na nchi ya Iraki.

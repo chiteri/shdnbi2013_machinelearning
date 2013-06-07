@@ -1,0 +1,19 @@
+Uchaguzi wa Bunge la Kenya 2007.
+Jumla.
+Wabunge 207 kati ya 210 walichaguliwa. Kura zitarudiwa katika majimbo 3. Wabunge 12 wa ziada watateuliwa na rais. Akifuata kawaida atawateua kufuatana na nguvu ya vyama bungeni.
+Uchaguzi huu ulikuwa na mabadiliko ya ajabu:
+Magazeti yalitoa taarifa ya kwamba wabunge 30 wa vyama vidogo waliunda "Kundi la vyama vidogo bungeni" (Small Parties Parliamentary Group); idadi hii ingejumlihsa wabunge waliohesabiwa juu kama kundi la PNU.
+Mkoa wa Kati (Central).
+PNU: 18, Safina: 3, KANU: 2, Sisi kwa sisi: 2, FORD-A: 1, FORD-P: 1, PICK: 1
+Mkoa wa Mashariki (Eastern).
+ODM-K: 14, PNU: 7, KANU: 4, CCU: 2, NARC: 2, ODM: 2, DP: 1, NARC KENYA: 1, PICK: 1, SAFINA: 1, Mazingira: 1
+Mkoa wa Magharibi (Western).
+ODM: 18, PNU: 2, New Ford-K: 2, FORD K: 1, KADDU: 1
+Mkoa wa Nyanza.
+ODM: 25, KANU: 2, NARC: 1, NLP: 1, DP: 1, FORD_P: 1, PDP: 1
+Mkoa wa Pwani (Coast).
+ODM: 12, PNU: 3, NARC-K: 2, ODM-K: 1, FORD-P: 1, KADU ASILI: 1, KANU: 1
+Mkoa wa Bonde la Ufa (Rift Valley).
+ODM: 32, PNU: 11, Kanu: 1, Kenda: 1, NARC-K: 1, UDM: 1
+Mkoa wa Kaskazini-Mashariki (North Eastern).
+Kanu: 4, ODM: 5; Safina: 1

@@ -1,0 +1,4 @@
+Ampea.
+Ampere'" (kifupi "'amp) ni kipimo cha SI kwa mkondo wa umeme. Alama yake ni A.
+Jina limetokana na mtaalamu Mfaransa André-Marie Ampère aliyegundua sumakumeme
+1 A = 1 C / s = 1 C · s-1 = 1 W / V = 1 W · V-1

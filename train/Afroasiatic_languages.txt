@@ -1,0 +1,65 @@
+Afroasiatic languages.
+Afroasiatic'" ("'Afro-Asiatic'"), also known as "'Hamito-Semitic'" (Chamito-Semitic), is a large language family, including 300 or so living languages.
+Afroasiatic languages are spoken predominantly in the Middle East, North Africa, the Horn of Africa, and parts of the Sahel. More than 300 million people speak an Afroasiatic language.
+The most widely spoken Afroasiatic language is Arabic (including literary Arabic and the spoken colloquial varieties), with about 200 to 230 million native speakers, spoken mostly in the Middle East and parts of North Africa. Berber (including all its varieties) is spoken in Morocco, Algeria, Libya, Tunisia, northern Mali, and northern Niger by about 25 to 35 million people. Other widely spoken Afroasiatic languages are Hausa, the dominant language of northern Nigeria and southern Niger, spoken as a first language by 25 million people and used as a lingua franca by another 20 million across the Sahel; Amharic and Oromo of Ethiopia, with 25 million speakers apiece; Somali, spoken by 15 million people in Greater Somalia; and Modern Hebrew, spoken by about seven million people worldwide. In addition to languages spoken today, Afroasiatic includes several important ancient languages, such as Ancient Egyptian, Akkadian and Biblical Hebrew.
+Etymology.
+The Afroasiatic language family was originally referred to as "Hamito-Semitic", a term introduced in the 1860s by the German scholar Karl Richard Lepsius. The name was later popularized by Friedrich Müller in his "Grundriss der Sprachwissenschaft" (Wien 1876-88).
+The term "Afroasiatic" (often now spelled as "Afro-Asiatic") was later coined by Maurice Delafosse (1914). However, it did not come into general use until Joseph Greenberg (1963) formally proposed its adoption. In doing so, Greenberg sought to emphasize the fact that Afroasiatic was the only language family that was represented transcontinentally, in both Africa and Asia.
+Individual scholars have also called the family "Erythraean" (Tucker 1966) and "Lisramic" (Hodge 1972). In lieu of "Hamito-Semitic", the Russian linguist Igor Diakonoff later suggested the term "Afrasian", meaning "half African, half Asiatic", in reference to the geographic distribution of the phylum's constituent languages.
+The term "Hamito-Semitic" remains in use in the academic traditions of some European countries.
+Distribution and branches.
+The Afroasiatic language family is usually considered to include the following branches:
+While there is general agreement on these six families, there are some points of disagreement among linguists who study Afroasiatic. In particular:
+Classification history==.
+In the 9th century, the Hebrew grammarian Judah ibn Quraysh of Tiaret in Algeria was the first to link two branches of Afroasiatic together; he perceived a relationship between Berber and Semitic. He knew of Semitic through his study of Arabic, Hebrew, and Aramaic.
+In the course of the 19th century, Europeans also began suggesting such relationships. In 1844, Theodor Benfey suggested a language family consisting of Semitic, Berber, and Cushitic (calling the latter "Ethiopic"). In the same year, T.N. Newman suggested a relationship between Semitic and Hausa, but this would long remain a topic of dispute and uncertainty.
+Friedrich Müller named the traditional "Hamito-Semitic" family in 1876 in his "Grundriss der Sprachwissenschaft". He defined it as consisting of a Semitic group plus a "Hamitic" group containing Egyptian, Berber, and Cushitic; he excluded the Chadic group. These classifications relied in part on non-linguistic anthropological and racial arguments that have largely been discredited (see Hamitic hypothesis).
+Leo Reinisch (1909) proposed linking Cushitic and Chadic, while urging a more distant affinity to Egyptian and Semitic, thus foreshadowing Greenberg, but his suggestion found little resonance.
+Marcel Cohen (1924) rejected the idea of a distinct Hamitic subgroup and included Hausa (a Chadic language) in his comparative Hamito-Semitic vocabulary.
+Joseph Greenberg (1950) strongly confirmed Cohen's rejection of "Hamitic", added (and sub-classified) the Chadic branch, and proposed the new name "Afroasiatic" for the family. Nearly all scholars have accepted Greenberg's classification.
+In 1969, Harold Fleming proposed that what had previously been known as Western Cushitic is an independent branch of Afroasiatic, suggesting for it the new name Omotic. This proposal and name have met with widespread acceptance.
+Several scholars, including Harold Fleming and Robert Hetzron, have since questioned the traditional inclusion of Beja in Cushitic.
+Subgrouping.
+Little agreement exists on the subgrouping of the five or six branches of Afroasiatic: Semitic, Egyptian, Berber, Chadic, Cushitic, and Omotic. However, Christopher Ehret (1979), Harold Fleming (1981), and Joseph Greenberg (1981) all agree that the Omotic branch split from the rest first.
+Position among the world's languages.
+Afroasiatic is one of the four language families of Africa identified by Joseph Greenberg in his book "The Languages of Africa" (1963). It is the only one that extends outside of Africa, via the Semitic branch.
+There are no generally accepted relations between Afroasiatic and any other language family. However, several proposals grouping Afroasiatic with one or more other language families have been made. The best-known of these are the following:
+Date of Afroasiatic.
+The earliest written evidence of an Afroasiatic language is an Ancient Egyptian inscription of c. 3400 BC (5,400 years ago). Symbols on Gerzean pottery resembling Egyptian hieroglyphs date back to c. 4000 BC, suggesting a still earlier possible date. This gives us a minimum date for the age of Afroasiatic. However, Ancient Egyptian is highly divergent from Proto-Afroasiatic (Trombetti 1905: 1–2), and considerable time must have elapsed in between them. Estimates of the date at which the Proto-Afroasiatic language was spoken vary widely. They fall within a range between approximately 7500 BC (9,500 years ago) and approximately 16,000 BC (18,000 years ago). According to Igor M. Diakonoff (1988: 33n), Proto-Afroasiatic was spoken c. 10,000 BC. According to Christopher Ehret (2002: 35–36), Proto-Afroasiatic was spoken c. 11,000 BC at the latest and possibly as early as c. 16,000 BC. These dates are older than dates associated with most other proto-languages.
+Afroasiatic Urheimat.
+The term Afroasiatic Urheimat ("Urheimat" meaning "original homeland" in German) refers to the 'hypothetical' place where Proto-Afroasiatic speakers lived in a single linguistic community, or complex of communities, before this original language dispersed geographically and divided into distinct languages. Afroasiatic languages are today primarily spoken in the Middle East, North Africa, the Horn of Africa, and parts of the Sahel.
+There is no agreement on when and where this "Urheimat" existed, though the language is generally believed to have originated somewhere in or near the region stretching from the Levant/Near East to the area between the Eastern Sahara and the Horn of Africa, including Egypt, Ethiopia and Sudan.
+Similarities in grammar and syntax.
+Widespread (though not universal) features of the Afroasiatic languages include:
+One of the most remarkable shared features among the Afroasiatic languages is the prefixing verb conjugation (see table above), with a distinctive pattern of prefixes beginning with /ʔ t n y/, and in particular a pattern whereby third-singular masculine /y-/ is opposed to third-singular feminine and second-singular /t-/.
+Tonal languages appear in the Omotic, Chadic, and Cushitic branches of Afroasiatic, according to Ehret (1996). The Semitic, Berber, and Egyptian branches do not use tones phonemically.
+Shared vocabulary.
+Following are some examples of Afroasiatic cognates, including ten pronouns, three nouns, and three verbs.
+There are two etymological dictionaries of Afroasiatic, one by Christopher Ehret, and one by Vladimir Orel and Olga Stolbova. The two dictionaries disagree on almost everything. The following table contains the thirty roots or so (out of thousands) that represent a fragile consensus of present research.
+1 *ʔab "Father "Semitic, Berber, Chadic, Cushitic
+2 (ʔa-)bVr "Bull" Semitic, Egyptian, Chadic, Cushitic
+3 (ʔa-)dVm "Red; blood "Semitic, Berber, Chadic, Cushitic
+4 *(ʔa-)dVm "Land, field, soil" Semitic, Chadic.
+5 ʔa-pay- "mouth" Semitic, Cushitic, Chadic
+6 ʔigar/ *ḳʷar- "house, enclosure" Semitic, berber, Chadic, Cushitic.
+7 *ʔil- "eye "Berber, Chadic, Cushitic.
+10 *baʔ- "go" Semitic, Chadic Cushitic
+11 *bar- "son "Semitic, Berber, Chadic
+12 *gamm- "Mane, beard "Semitic, Chadic, Cushitic
+13 *gVn "Cheek, chin" Semitic, Chadic
+14 *gʷarʕ- "throat "Semitic, Chadic, Cushitic
+16 *kVn- "Co-wife" Semitic, Berber, Chadic
+17 *kʷaly "kidney "Semitic Chadic, Cushitic, Omotic
+18 *ḳa(wa)l-/ *qʷar- "Say, call" Semitic, Chadic
+19 *ḳas- "bone "Berber, Egyptian, Chadic
+20 *libb "heart "Semitic, Chadic, Cushitic
+21 *lis- "tongue "Semitic, Berber, Chadic
+22 *maʔ- "water "Semitic, Egyptian, Chadic and Berber "aman"
+23 *mawVt- "To die" Semitic, Berber, Egyptian, Chadic
+24 *sin- "tooth "Semitic, Berber, Chadic
+25 *siwan- "Know "Berber, Egyptian, Chadic
+26 *inn- "I, we" Semitic, Egyptian, Berber, Cushitic
+27 *-k- "thou "Semitic, Berber, Chadic, Cushitic
+30 *šun "to sleep, dream"Semitic, Chadic.
+Etymological bibliography.
+Some of the main sources for Afroasiatic etymologies include:

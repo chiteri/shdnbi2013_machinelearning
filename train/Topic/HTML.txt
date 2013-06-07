@@ -1,0 +1,11 @@
+HTML.
+HTML'" ni kifupi cha "'HyperText Markup Language'" au "'Lugha ya kutunga matini ya mtandao. Ni aina ya lugha ya kompyuta inayotumiwa tovuti ionekane mtandaoni jinsi inavyotakiwa.
+Ni mchanganyiko wa lugha ya kawaida na misimbo ya pekee inayomweleza kompyuta kuonyesha maandishi, picha au rangi kwa namna fulani jinsi inavyotakiwa.
+Programu ya kivinjari (au kisakuzi - "browser") kama Firefox au Internet Explorer inasoma lugha hii ya HTML inapoambiwa jinsi gani kuonyesha ukurasa. Ukurasa wa tovuti unaweza kuonyesha maandishi, viungo, picha au hata sauti na video.
+Misimbo.
+HTML hutumia amri za pekee zinazoitwa msimbo ("tag"). Misimbo hii hutokea mara nyingi kwa jozi: msimbo funguzi unaambia kivinjari kuanza kazi fulani, na msimbo funga unasema kazi hii inakwisha.
+Kuna misimbo nyingi tofauti na kila mmoja una kazi yake maalumu.
+Misimbo fnguzi huwa na neno la kuamrisha ndani ya vibano pembe. Kwa mfano "title" ni amri ya kuonyesha maneno kama kichwa. Kionekane kama amri hufungwa ndani ya vibano pembe [Codice 1]; sasa programu inajua kuionyesha kama kichwa. Mwisho wa kichwa unaelezwa kwa msimbo [Codice 2].
+Mfano.
+Yafuatayo ni mfano wa ukurasa wa HTML:
+Hii ni ibara ndani ya maandishi

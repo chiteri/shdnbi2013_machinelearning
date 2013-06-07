@@ -1,0 +1,5 @@
+Richard Stallman.
+Richard Stallman (picha kutoka kitabu cha O'Reill juu yake)
+Richard Stallman (* 16 Machi 1953) ni mtaalamu wa programu za tarakilishi (kompyuta) aliyeanzisha harakati ya kuunda programu huria.
+Wakati wa miaka ya 1970 alikuwa mtungaji wa programu kwenye taasisi ya tarakilishi kwenye chuo kikuu cha MTI (Harvard USA). Alipoona ya kwamba makampuni ya kutunga programu zilianza kubana uhuru wa kubadilisha programu hizi aliamua kufuata njia tofauti.
+Stallmann alianzisha mradi wa GNU na shirika la Free Software Foundation. Hata wikipedia inatumia mara nyingi laiseni ya GNU inayomruhusu kila mtu kubadilisha programu, picha na yaliyomo mengine kwenda mtandao au kwenye tarakilishi.
