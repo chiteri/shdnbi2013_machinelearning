@@ -1,0 +1,4 @@
+Jouli.
+Jouli ni kizio cha upimaji wa nishati, kazi na joto.
+Fomula yake ni nyutoni moja zidisha kwa mita moja (1 J = 1 N × 1 m = 1 W × s)
+Maelezo yake ni kazi inayofanywa kama kani ya nyutoni moja inatumiwa kwa umbali wa mita moja.

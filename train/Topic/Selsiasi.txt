@@ -1,0 +1,7 @@
+Selsiasi.
+Selsiasi'" ("'sentigredi'", "'Celsius'") ni kipimo cha halijoto kinachotumika zaidi duniani. Alama yake ni "'°C.
+Kipimo hiki hutumia skeli ya vizio 100 kati ya 0 °C na 100 °C. 0 °C ni halijoto ya kuganda kwa maji kuwa barafu. 100 °C ni halijoto ya maji kuchemka, yote kwa shindikizo kawaida la hewa yaani takriban shindikizo la hewa linalopatikana kando la bahari.
+1 °C sehemu ya mia ya tofauti kati ya 0 °C na 100 °C.
+Kipimo hiki kilianzishwa na Msweden Anders Celsius (1701 - 1744). Yeye aliita halijoto ya kuchemka kwa maji kama 0 °C na halijoto ya kuganda kuwa 100 °C. Namna ya kuandika ilibadilishwa baadaye kinyume.
+Selsiasi ni kipimo kinachotumika zaidi kimataifa katika maisha ya kawaida. Kisayansi vipimo vya Kelvini vimekuwa kawaida. Siku hizi ufafanuzi wa kisayansi ya Selsiasi ni ya kuwa kizio kimoja cha Selsiasi ni sehemu ya 1/273.16 ya tofauti kati ya sifuri halisi (=0 K au Kelvini sifuri) na kiwango utatu cha maji (maji kubadilika kutoka barafu kuwa kiowevu (majimaji).
+Skeli ya Selsiasi imelinganishwa na skeli ya Kelvini yaani kizio kimoja cha Kelvini ni sawa na kizio kimoja cha Selsiasi.

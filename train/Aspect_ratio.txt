@@ -1,0 +1,12 @@
+Aspect ratio.
+The aspect ratio'" is the ratio of the width of a shape to its height when the width is larger than the height, i.e. the shape is positioned as a "landscape" rather than "portrait".
+The aspect ratio is expressed as two numbers separated by a colon (x:y). A common misunderstanding is that x and y represent actual length and height. This is false; they actually represent the relation between width and height. As an example, 8:5, 16:10 and 1.6:1 are the same aspect ratio.
+It may be applied to two characteristic dimensions of a three-dimensional shape.
+Applications and uses.
+The term is most commonly used with reference to:
+Rectangles.
+For a rectangle, the aspect ratio denotes the ratio of length to width of the rectangle. An aspect ratio of 1:1 is a square.
+Ellipses.
+For an ellipse, the aspect ratio denotes the ratio of the major axis to the minor axis. An aspect ratio of 1:1 is a circle.
+Maths and Aspect ratio.
+Aspect ratios are mathematically expressed as "x":"y" (pronounced "x-to-y") and "x"×"y" (pronounced "x-by-y"), with the latter particularly used for pixel dimensions, such as 640×480. Cinematographic aspect ratios are usually denoted as a (rounded) decimal multiple of width vs unit height, while photographic and videographic aspect ratios are usually defined and denoted by whole number ratios of width to height. In digital images there is a subtle distinction between the "Display" Aspect Ratio (the image as displayed) and the "Storage" Aspect Ratio (the ratio of pixel dimensions); see distinctions, below.

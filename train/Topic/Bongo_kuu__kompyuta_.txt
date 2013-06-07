@@ -1,0 +1,14 @@
+Bongo kuu (kompyuta).
+Bongo kuu'" (pia: CPU, kifupi cha Kiingereza "'central processing unit") ni sehemu muhimu ndani ya tarakilishi.
+Ni kweli bongo la mashine kwa sababu kila sehemu ya tarakilishi inahitaji CPU kwa njia fulani ikitekeleza shughuli zake.
+Ina sehemu tatu ambazo ni muhimu kwa utenda kazi wake. Nazo ni:
+Arithmetic Logic Unit (ALU).
+Hii ni sehemu muhimu ya Bongo Kuu inayoandaa taarifa zote za kihisabati. Taarifa hizi zaweza kuwa hesabu za kujumlisha au kutoa.
+Control Unit.
+Sehemu hii ya Bongo Kuu inaratibu vifaa vyote vinavyoingiza na kutoa taarifa mbalimbali katika kompyuta. Vifaa hivi vyaweza kuhusisha scrini, bao bonye, puku au kipanya, machine ya kutoa nakala, mashine ya kuingiza nakala ya taarifa kwenye kompyutya na nyinginezo nyingi.
+Main Memory.
+Kwa kawaida Bongo kuu huhitaji kiasi fulani cha kumbukumbu ambayo hurahisisha uhifadhi wa taarifa mbalimbali mara zinaposubiri nafasi ya kuweza kuwekwa katika hali ya mchakato kuziwezesha taarifa hizo kutoa matokeo yaliyokusudiwa. Sehemu hii ni ya muhimu zaidi kwani hurahisisha kazi ya bongo kuu na kuiwezesha kutoa matokeo yaliyokusudiwa kwa muda mfupi kwa kupunguza umbali na muda wa kuzihusisha taarifa mbalimbali wakati wa mchakato
+Utengenezwaji.
+Bongo kuu ni kifaa muhimu na chenye gharama kubwa hivyo utenenezwaji wake ni wa gharama kubwa. Sio kila mtu anauwezo wa kuzitengeneza hivyo basi ni makampuni machache yenye uwezo wa kutengeneza. Makampuni haya yanajumisha intel, AMD, POWERPC na nyinginezo.
+Upatikanaji.
+Upatikanaji wa bongo kuu unategemea kasi, ukubwa wa mchakato wa data, pamoja na bei na unaweza kuzinunua popote pale kwenye maduka ya spea za kompyuta. Pia unahitajika kujua muingiliano wa bongo kuu ya kompyuta unayoitumia na spea utakayoinunua kabla hauja inunua kwani haitaweza kufanya kazi ipasavyo ikiwa kutakuwa na utofauti baina ya bodi mama na bongo kuu.

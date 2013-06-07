@@ -1,0 +1,9 @@
+Mjao.
+Mjao'" inaeleza ukubwa wa gimba la hisabati (mchemraba, tufe, mcheduara) kwa kupima nafasi ya yaliyomo yake. Hupimwa katika vizio vya ujazo kama mita ujazo (m³) au sentimita ujazo (cm³). Kila gimba lenye urefu, upana na kimo huwa na mjao.
+Hali halisi nje ya hisabati kuna njia mbili za kuangalia mjao wa gimba:
+Mifano ya kukadiria mjao wa magimba kadhaa.
+Kadirio ya mjao ni Urefu x Upana x Kimo.
+mchemraba mwenye urefu wa ukingo "a": [Formula 1]
+mchemstatili mwenye urefu wa kingo "a", "b" na "c": [Formula 2]
+tufe lenye rediasi "r":: [Formula 3]
+mcheduara au mche mwenye eneo la kitako "A" na kimo "h": [Formula 4]

@@ -1,0 +1,14 @@
+Actinopterygii.
+The Actinopterygii'", or "'ray-finned fishes'", constitute a class or subclass of the bony fishes.
+The ray-finned fishes are so called because they possess lepidotrichia or "fin rays", their fins being webs of skin supported by bony or horny spines ("rays"), as opposed to the fleshy, lobed fins that characterize the class Sarcopterygii which also, however, possess lepidotrichia. These actinopterygian fin rays attach directly to the proximal or basal skeletal elements, the radials, which represent the link or connection between these fins and the internal skeleton (e.g., pelvic and pectoral girdles).
+In terms of numbers, actinopterygians are the dominant class of vertebrates, comprising nearly 99% of the over 30,000 species of fish (Davis, Brian 2010). They are ubiquitous throughout freshwater and marine environments from the deep sea to the highest mountain streams. Extant species can range in size from "Paedocypris", at, to the massive ocean sunfish, at, and the long-bodied oarfish, at.
+Characteristics.
+Ray-finned fishes come in many variant forms. The main features of a typical ray-finned fish are shown in the diagram at the left.
+Fossil record.
+"Andreolepis hedei", the first known ray-finned fish, lived around 420 million years ago
+The earliest known fossil actinopterygiian is "Andreolepis hedei", dating back 420 million years (Late Silurian). Remains have been found in Russia, Sweden, and Estonia.
+Classification.
+Traditionally actinopterygians have been divided into the subclasses Chondrostei'" and "'Neopterygii'". Neopterygii, in turn, have been divided into the infraclasses "'Holostei'" and "'Teleostei'". Some morphological evidence suggests the Neopterygii is paraphyletic and should be abandoned; however, recent work, based on taxon orders, is arranged in what has been suggested to represent the evolutionary sequence down to the level of order, based primarily on the long history of morphological studies. This classification, like any other taxonomy based on phylogenetic research, has been in a state of flux. Recent morphological and molecular data have shown several of these ordinal and higher-level groupings represent evolutionary grades rather than clades. Examples of demonstrably paraphyletic groups include the Paracanthopterygii, Scorpaeniformes, and Perciformes.
+Skeleton of the angler fish, "Lophius piscatorius". The first spine of the dorsal fin of the anglerfish is modified so it functions like a fishing rod with a lure
+Skeleton of another ray-finned fish, the lingcod
+The listing below follows FishBase with notes when this differs from Nelson and ITIS.

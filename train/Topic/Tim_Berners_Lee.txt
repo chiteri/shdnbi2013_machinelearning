@@ -1,0 +1,6 @@
+Tim Berners-Lee.
+Tim Berners-Lee (* 18 Juni 1955 mjini London, Uingereza) alianzisha wavuti au intaneti ya dunia zima. Wavuti ni mfumo unaowezesha watu kutazama habari, picha na kurasa kutoka dunia yote kwenye tarakilishi yao.
+1991 Berners-Lee alikuwa mtaalamu wa kompyuta kwenye CERN (taasisi ya kinyuklia ya Ulaya). Maabara ya CERN ziko pande zote mbili za mpaka wa Uswisi na Ufaransa. Haikuwa rahisi kupata mawasiliano kati ya kompyuta pande zote mbili za mpaka kwa sababu kila nchi ilikuwa na utaratibu wake.
+Berners-Lee alitunga lugha ya programu HTML (inayotumiwa leo hii kuandika kila karibu kila ukurasa kwenye toovuti hata wikipedia). Alianzisha pia mpango wa kuweka kompyuta kando kama seva kwa watumiaji wengine. Alitunga mipangoy a kupanusha wavuti kote duniani akasisitiza ya kwamba programu zote ziwe programu huria.
+Kwa kazi hizi alikuwa baba wa wavuti.
+Leo hii anaishi Marekani akiwa profesa kwenye chuo kikuu cha MIT mjini Boston.

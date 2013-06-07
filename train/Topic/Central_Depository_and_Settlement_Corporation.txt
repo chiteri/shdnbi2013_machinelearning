@@ -1,0 +1,9 @@
+Central Depository and Settlement Corporation.
+Central Depository and Settlement Corporation ama CDSC ni kampuni iliyobuniwa mwaka wa 2000 ili kuweka rekodi ya wamiliki hisa, uununuzaji na uuzaji wa hisa katika Soko la Hisa la Nairobi. Rekodi hii huwekwa kwa njia ya electroniki ili kurahisisha uununuaji na uuzaji wa hisa.
+CDS.
+CDS ama "Central Depository System" ni mfumo wa kompyuta unaotomiwa na CDSC kuweka akaunti za hisa kwa njia ya kielectonik. Akaunti hizi huwa zimefunguliwa na wamiliki hisa kwa hivyo, mara kwa mara, CDS hutumika kubadilisha hisa kutoka akaunti moja hadi nyingine wakati hisa zinaponunuliwa na kuuzwa katika Soko la Hisa la Nairobi.
+Hivyo basi, kila mmiliki hisa katika kampuni zilizosajiliwa katika Soko la Hisa la Nairobi ni lazima awe na akaunti ya CDS illi kuweza kushiriki katika kununua na kuuza hisa.
+Unachohitaji kufunguwa Akaunti ya CDS.
+Ili kufungua akaunti ya CDS, unaitaji yafuatayo:
+Manuufa ya kuwa na Akaunti ya CDS.
+Baadhi ya manufaa ya kuwa na akaunti ya CDS ni kama:

@@ -1,0 +1,9 @@
+Namba tasa.
+Namba tasa ni namba asilia isiyogawiwa kwa namba nyingine isipokuwa kwa 1 na kwa namba yenyewe.
+Idadi ya namba tasa haina mwisho na thelathini za kwanza ni 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113.
+1 haihesabiwi kama namba tasa kwa sababu inagawiwa kwa 1 tu hakuna namba ya pili. 0 si namba tasa kwa sababu hairuhusiwi kugawa kwa 0.
+Namba zote nyingine zisizo namba tasa huitwa namba kivunge na zinaweza kupatikana kwa kuzidisha namba asilia mbili.
+Kichujio cha Eratosthenes.
+Mbinu mwepesi wa kugundua namba tasa ndogo ni Kichujio cha Eratosthenes. Ilibuniwa na mwanahisabati na mwanafalsafa Eratosthenes aliyeishi zamani za Ugiriki ya Kale.
+Matumizi.
+Kunamatumizi ya namba tasa katika maisha ya kila siku kwenye namba za siri za akdi za benki au kadi za simu pia kwenye simu za mkononi. Nuymba ya namba ya siri mara nyingi ni zidisho la namba tasa mbili kubwa. Ni rahisi ykuzidisha namba tasa mbili lakini ni kazi kubwa mno kugundua zao ilikuwa tokeo la namba zipi.
