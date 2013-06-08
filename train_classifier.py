@@ -6,14 +6,16 @@ import matplotlib.pylab as plt
 
 import sys
 
-
+MAX_EVENTS = 500
 
 def read_jets():
     # Read in the jet info for this event.
     not_at_end = True
+
+    counter = 0
    
     f = open('resources/particle_physics/data/mc_wjets.txt')
-    while(not_at_end):
+    while(not_at_end and counter <= MAX_EVENTS):
         line = f.readline()
         if line=="":
             not_at_end = False
@@ -39,14 +41,18 @@ def read_jets():
         line = f.readline()
         vals = line.split()
         new_event = False
-	print jets
+	print jets 
+        print "Event counter: ", counter 
+        
+        counter += 1
     return None
 
 def read_ttbar():
     not_at_end = True
+    counter = 0 
     
     f = open('resources/particle_physics/data/mc_ttbar.txt')
-    while(not_at_end):
+    while(not_at_end and counter <= MAX_EVENTS):
         line = f.readline()
         if line=="":
             not_at_end = False
@@ -71,17 +77,21 @@ def read_ttbar():
         line = f.readline()
         vals = line.split()
         new_event = False
+
         print muons 
+        print "Event counter ", counter 
+        counter += 1
+
     return None
 
 # Obtain our training sample of 500 events from each dataset
 d_jets = read_jets()
 d_ttbar = read_ttbar()
-tSample_jets = d_jets[:501]
-tSample_muons = d_ttbar[:501]
+# tSample_jets = d_jets[:501]
+# tSample_muons = d_ttbar[:501]
 
 # Combine the training samples to one dataset
-tSample = tSample_jets.extend(tSample_muons)
+# tSample = d_jets.extend(d_ttbar)
 
 # Create the DT Classifier
 dt_classifier = tree.DecisionTreeClassifier()
@@ -90,4 +100,4 @@ dt_classifier = tree.DecisionTreeClassifier()
 #dt_classifier = dt_classifier.fit(tSample)
 
 
-print tSample
+# print tSample
