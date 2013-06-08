@@ -7,13 +7,16 @@ import matplotlib.pylab as plt
 import sys
 
 MAX_EVENTS = 500
+jet_features = []
+tt_features = []
 
 def read_jets():
     # Read in the jet info for this event.
     not_at_end = True
 
     counter = 0
-   
+    
+    
     f = open('resources/particle_physics/data/mc_wjets.txt')
     while(not_at_end and counter <= MAX_EVENTS):
         line = f.readline()
@@ -41,10 +44,11 @@ def read_jets():
         line = f.readline()
         vals = line.split()
         new_event = False
-	print jets 
-        print "Event counter: ", counter 
+        print jets 
+    #print "Event counter: ", counter
         
         counter += 1
+        jet_features.append(1)
     return None
 
 def read_ttbar():
@@ -79,8 +83,9 @@ def read_ttbar():
         new_event = False
 
         print muons 
-        print "Event counter ", counter 
+        #print "Event counter ", counter
         counter += 1
+        tt_features.append(2)
 
     return None
 
@@ -97,7 +102,8 @@ d_ttbar = read_ttbar()
 dt_classifier = tree.DecisionTreeClassifier()
 
 # Make it learn
-#dt_classifier = dt_classifier.fit(tSample)
+dt_classifier = dt_classifier.fit(d_jets.append(d_ttbar))
 
 
-# print tSample
+print jet_features
+print tt_features
