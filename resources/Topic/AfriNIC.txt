@@ -1,4 +1,0 @@
-AfriNIC.
-Kituo cha Habari ya Mtandao Afrika'" (kifupi chake kwa Kiingereza: "'AfriNIC'" yaani "'African Network Information Center) ni moja kati ya shirika la ugawaji wa na usajili wa anwani za IP ya Internet kwa ajili ya Afrika, yaani, Usajili Internet wa Kikanda.
-Makao makuu ya AfriNIC yapo mjini Ebene, Morisi.
-Hapo awali, anwani za IP za Afrika zilikuwa zikisambazwa na APNIC, ARIN, ana RIPE NCC.

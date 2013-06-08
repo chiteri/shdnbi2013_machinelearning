@@ -1,6 +1,0 @@
-Alan Turing.
-Alan Mathison Turing (23 Juni 1912 - 7 Juni 1954) alikuwa mtaalamu wa hisabati na kompyuta nchini Uingereza.
-Alikuwa kati ya watu wa kwanza walioshughulika na kompyuta tarakimu. Alielewa ya kwamba kompyuta inaweza kutumiwa hata kwa shughuli nje ya hisabati kama lugha ya programu yake inatafsiri shughuli hizi katika namba 0 na 1.
-Alibuni programu ya mashine ya Turing ambayo ni mfano kwa kompyuta za baadaye.
-Wakati wa Vita Kuu ya Pili ya Dunia Turing aliongeza jitihada za kuvunja siri ya mawasiliano ya jeshi la Ujerumani. Wajerumani walitumia mashine iliyoitwa enigma na mashine hii ilibadilisha kila ujumbe uliowasilishwa kwa redio kuwa mfululizo wa namba. Kundi la Turing liliofaulu kutambua mbinu wake na baadaye Waingereza walielewa ujumbe kutoka nyambizi za Kijerumani.
-Mwaka 1952 kazi ya Tring ilivunjwa aliposhtakiwa kuwa basha; alipelekwa mahakamani akahukumiwa aingie ama jela au akubali kutumia madawa makali. Baada ya miaka 2 alijiua.
