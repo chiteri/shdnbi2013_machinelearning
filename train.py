@@ -12,7 +12,7 @@ def read_jets():
     # Read in the jet info for this event.
     not_at_end = True
    
-    f = open('resources/mc_wjets.txt')
+    f = open('resources/data/mc_wjets.txt')
     while(not_at_end):
         line = f.readline()
         if line=="":
@@ -40,11 +40,12 @@ def read_jets():
         vals = line.split()
         new_event = False
 	print jets
+    return None
 
 def read_ttbar():
     not_at_end = True
     
-    f = open('resources/mc_ttbar.txt')
+    f = open('resources/data/mc_ttbar.txt')
     while(not_at_end):
         line = f.readline()
         if line=="":
