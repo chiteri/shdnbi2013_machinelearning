@@ -48,13 +48,22 @@ Ytrain = Ytrain[Ytrain>-999]
 #Xtrain = Xtrain.reshape(nlines,5)
 print Xtrain
 
-nlines = 0
-for line in infile2:
-    Xtest[nlines] = np.array(line.split()).astype('float')
+#nlines = 0
+    #for line in infile2:
+    #Xtest[nlines] = np.array(line.split()).astype('float')
     #Xtest = np.append(Xtest,np.array(line.split()).astype('float'))
-    nlines += 1
+#nlines += 1
 
 #Xtest = Xtest.reshape(nlines,5)
+
+##########################################################
+# Our testing data for the ML algo -- added by @daaj
+##########################################################
+testing_file = open('testing.dat')
+for line in testing_file:
+    Xtest[nlines] = np.array(line.split()).astype('float')
+    nlines += 1
+
 
 # Make it so we can plot these variables
 newXtrain = Xtrain.swapaxes(0,1)

@@ -16,6 +16,8 @@ masses_muons = []
 
 event_count = 0
 output = ""
+out_f = open('testing.dat','w')
+
 while ( not_at_end ):
 
     ############################################################################
@@ -47,6 +49,7 @@ while ( not_at_end ):
             pz = float(vals[3])
             bquark_jet_tag = float(vals[4])
             jets.append([e,px,py,pz,bquark_jet_tag])
+            out_f.write("%f %f %f %d %f\n" % (e,px,py,pz,bquark_jet_tag))# Write our testing data for the ML algo -- added by @daaj
 
         # Read in the muon info for this event.
         muons = []
