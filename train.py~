@@ -39,7 +39,7 @@ def read_jets():
         line = f.readline()
         vals = line.split()
         new_event = False
-	print jets
+    	return jets
 
 def read_ttbar():
     not_at_end = True
