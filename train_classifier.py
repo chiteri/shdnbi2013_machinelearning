@@ -12,7 +12,7 @@ def read_jets():
     # Read in the jet info for this event.
     not_at_end = True
    
-    f = open('resources/data/mc_wjets.txt')
+    f = open('resources/particle_physics/data/mc_wjets.txt')
     while(not_at_end):
         line = f.readline()
         if line=="":
@@ -45,7 +45,7 @@ def read_jets():
 def read_ttbar():
     not_at_end = True
     
-    f = open('resources/data/mc_ttbar.txt')
+    f = open('resources/particle_physics/data/mc_ttbar.txt')
     while(not_at_end):
         line = f.readline()
         if line=="":
@@ -71,7 +71,8 @@ def read_ttbar():
         line = f.readline()
         vals = line.split()
         new_event = False
-    return muons
+        print muons 
+    return None
 
 # Obtain our training sample of 500 events from each dataset
 d_jets = read_jets()
@@ -89,4 +90,4 @@ dt_classifier = tree.DecisionTreeClassifier()
 #dt_classifier = dt_classifier.fit(tSample)
 
 
-print d_jets 
+print tSample
