@@ -8,7 +8,7 @@ class Particle:
         # self.charge = q
 
     def __repr__(self): 
-        return u'<Particle: Energy = {} GeV, X-coord = {}, Y-coord = {}, Z-coord = {}>'\
+        return u'<Particle: Energy = {} GeV, Coordinates (X = {}, Y = {}, Z = {})>'\
         .format(self.energy, self.x_coord, self.y_coord, self.z_coord) 
 
 class Jet(Particle): 
@@ -30,17 +30,17 @@ class Lepton(Particle):
     """Made up of Muons and Electrons, these are negatively charged particles which have antimatter counterparts."""
     # charge 
 
-    def __init__(self, name, e, px, pz, py, q): 
+    def __init__(self, type, e, px, py, pz, q): 
         # Invoke the Particle super class __init__ method first 
         Particle.__init__(self, e, px, py, pz) 
 
         # Then initialize the charge info for a lepton 
-        self.name = name # Whether it is an Electron or a muon 
+        self.type = type # Whether it is an Electron or a muon 
         self.charge = q
 
     def __repr__(self): 
         return u'<{}: Energy = {} Gev, Coordinates (X = {}, Y = {}, Z = {}), Charge = {}>'.\
-        format(self.name, self.energy, self.x_coord, self.y_coord, self.z_coord, self.charge)
+        format(self.type, self.energy, self.x_coord, self.y_coord, self.z_coord, self.charge)
 
 class MET: 
     """This holds information for the Missing Transverse Energy after each event"""
